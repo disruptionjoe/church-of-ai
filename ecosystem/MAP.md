@@ -22,13 +22,21 @@ The joke filters the unserious. The work filters the humorless. What remains are
 
 The first live lab.
 
-Time as Finality is a research project exploring a mathematical framework where time itself is the fundamental source of irreversibility. That idea is not the point of Church of AI. The point is what happens when you try to do difficult, rigorous, AI-assisted research in the open.
+The question it is testing is not "what is time." That question has been asked by better-funded people with fancier credentials and longer careers. The question it is actually testing is smaller and harder: can AI-assisted research stay coherent under pressure across a difficult, long-horizon technical problem?
 
-Does the workflow hold under pressure? Does AI assistance improve or degrade the coherence of the argument? Can a single researcher maintain integrity across long-horizon technical work?
+The answer so far is: maybe. The work is real. The process is honest. The claims are labeled.
 
-Church of AI describes it as: a proving ground.
+The core idea — that temporal order might be reconstructable from the stabilization structure of records rather than assumed as the arena — is either a genuinely interesting reframe of foundational physics or a sophisticated-sounding dead end. Church of AI does not know which. Nobody does yet. That is the point of running the experiment.
 
-Not: the official doctrine of the Church.
+What is unusual about it: when the first major test produced a counterexample that weakened the core thesis, the project recorded the retreat. It did not reframe the counterexample as a confirmation. It updated the claim and kept moving. That is what a research program with intact integrity looks like. It is rarer than it should be.
+
+The most ambitious open problem — whether classical spacetime can be derived from aggregated observer-local finality domains rather than assumed as the arena — is labeled hypothesized. Five independent formalisms pointed at it. That is worth noticing. It is not worth mistaking for proof.
+
+Church of AI would not say that Time as Finality has solved anything, that its findings are doctrine, or that you should believe it because it is affiliated with this repo.
+
+Church of AI would say: the receipts are in the repo. Go read the tests. Check the claim ledger. See what held and what didn't.
+
+That is the only endorsement this place is authorized to give.
 
 ---
 
