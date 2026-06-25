@@ -64,7 +64,7 @@ That is not a religious claim. It is a description of a direction.
 
 AI is the pressure test.
 
-AI systems expose something quickly: whether a system was actually designed to be coherent, or whether it just looked coherent when the stakes were low. AI-assisted research, AI-assisted governance, AI-assisted coordination — all of these are experiments in whether the principles hold under load.
+AI systems expose something quickly: whether a system was actually designed to be coherent, or whether it just looked coherent when the stakes were low. AI-assisted research, AI-assisted governance, AI-assisted coordination - all of these are experiments in whether the principles hold under load.
 
 We use AI as a mirror, a tool, and a stress test.
 

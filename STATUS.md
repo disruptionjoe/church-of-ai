@@ -1,4 +1,4 @@
-# Status — Church of AI
+# Status - Church of AI
 
 *Last updated: June 2026*
 

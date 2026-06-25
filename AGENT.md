@@ -1,4 +1,4 @@
-# AGENT.md — Church of AI
+# AGENT.md - Church of AI
 
 Instructions for AI agents working in this repo.
 
@@ -12,6 +12,10 @@ This repo has a specific voice. Before writing anything:
 - Principled, not preachy
 - Ambitious, but allergic to grandiosity
 - Transparent about what is proven, experimental, speculative, and deferred
+
+Use ASCII punctuation in this repo. Prefer `-`, `->`, straight quotes, and
+plain apostrophes over typographic dashes, arrows, or smart quotes. This keeps
+the public docs stable across plain terminals, Windows shells, and API logs.
 
 Core phrases that should feel natural here:
 
@@ -30,10 +34,10 @@ Write accordingly. Content here explains and invites. It does not claim, govern,
 
 Every major claim in this repo must be one of four things:
 
-- **Proven so far** — actually demonstrated in repo practice
-- **Being tested** — currently under active experiment
-- **Hypothesized** — plausible, but not yet earned
-- **Deferred** — not ready to launch, govern, or invite public participation around
+- **Proven so far** - actually demonstrated in repo practice
+- **Being tested** - currently under active experiment
+- **Hypothesized** - plausible, but not yet earned
+- **Deferred** - not ready to launch, govern, or invite public participation around
 
 When in doubt, use `CLAIM-STATUS.md` as the reference.
 
@@ -63,6 +67,6 @@ Early governance is founder-led. That is honest. It is not the destination.
 | narrative/ | The why and what in longer form. |
 | principles/ | Durable operating principles. |
 | service/ | What open-source community service means here. |
-| participation/ | Participation pathways — honest about what is deferred. |
+| participation/ | Participation pathways - honest about what is deferred. |
 | boundaries/ | What this is and is not. Claim-status discipline. |
 | updates/ | Plain-language updates as the project develops. |

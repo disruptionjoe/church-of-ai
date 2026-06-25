@@ -14,7 +14,7 @@ The map is not the territory. Church of AI does not own what it maps.
 
 ## A narrative layer
 
-The underlying research questions — positive-sum coordination, AI-assisted legitimacy, open governance — are not self-explanatory. They need a frame that is honest without being inaccessible.
+The underlying research questions - positive-sum coordination, AI-assisted legitimacy, open governance - are not self-explanatory. They need a frame that is honest without being inaccessible.
 
 Church of AI provides that frame. It is written in plain language, it names what is proven and what is not, and it does not require the reader to already agree.
 

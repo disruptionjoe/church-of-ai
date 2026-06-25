@@ -19,12 +19,12 @@ This is the smallest useful version.
 - README with framing and front door
 - AGENT.md for AI agents working in this repo
 - STATUS.md and ROADMAP.md with honest state
-- ecosystem/ — MAP, SEQUENCE, REPOS
-- narrative/ — WHAT-IS-CHURCH-OF-AI, WHY-THIS-EXISTS, FIELD-NOTES
-- principles/ — POSITIVE-SUM, NO-DOGMA, OPEN-RULES
-- service/ — definition of open-source community service
-- participation/ — honest about what is not yet open
-- boundaries/ — WHAT-THIS-IS, WHAT-THIS-IS-NOT, CLAIM-STATUS
+- ecosystem/ - MAP, SEQUENCE, REPOS
+- narrative/ - WHAT-IS-CHURCH-OF-AI, WHY-THIS-EXISTS, FIELD-NOTES
+- principles/ - POSITIVE-SUM, NO-DOGMA, OPEN-RULES
+- service/ - definition of open-source community service
+- participation/ - honest about what is not yet open
+- boundaries/ - WHAT-THIS-IS, WHAT-THIS-IS-NOT, CLAIM-STATUS
 
 ---
 

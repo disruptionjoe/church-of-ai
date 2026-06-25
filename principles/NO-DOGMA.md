@@ -13,7 +13,7 @@ Dogma in a project like this tends to arrive in a few specific forms:
 
 **Founder mythology.** The story of how the founder saw the truth others missed and built the thing that will change everything. This story might be partially true. It is not a governance principle and it is not a research methodology.
 
-**Unfalsifiable claims.** "This framework explains everything." "This model is fundamentally correct." Claims that cannot be wrong are not claims — they are identities. Identities resist evidence.
+**Unfalsifiable claims.** "This framework explains everything." "This model is fundamentally correct." Claims that cannot be wrong are not claims - they are identities. Identities resist evidence.
 
 **Premature ratification.** Taking a hypothesis that has been partially tested and treating it as established. The distance between "this seems promising" and "this is correct" is where most bad ideas get legitimized.
 
@@ -27,7 +27,7 @@ Claim-status discipline. Every major claim gets labeled: proven so far, being te
 
 The willingness to say "we were wrong about this." The willingness to update publicly. The willingness to hold principles lightly enough to revise them when they stop working.
 
-The governance principle here is that rules are proposed, discussed, tested, revised, documented, and ratified — not handed down.
+The governance principle here is that rules are proposed, discussed, tested, revised, documented, and ratified - not handed down.
 
 This is not a philosophical commitment to relativism. It is a commitment to keeping the feedback loop open.
 

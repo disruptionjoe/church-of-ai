@@ -1,8 +1,8 @@
-# Roadmap — Church of AI
+# Roadmap - Church of AI
 
 This roadmap names what is coming without pretending it is already here.
 
-## V1 — Public entryway (current)
+## V1 - Public entryway (current)
 
 - Repo skeleton with full structure
 - README establishing voice and framing
@@ -13,7 +13,7 @@ This roadmap names what is coming without pretending it is already here.
 
 Status: **In progress**
 
-## V2 — Participation foundation
+## V2 - Participation foundation
 
 Prerequisites before participation pathways open:
 
@@ -24,7 +24,7 @@ Prerequisites before participation pathways open:
 
 Status: **Deferred**
 
-## V3 — Open governance experiment
+## V3 - Open governance experiment
 
 This requires earning it:
 

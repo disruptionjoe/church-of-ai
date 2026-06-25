@@ -1,4 +1,4 @@
-# Open-Source Community Service — What This Means
+# Open-Source Community Service - What This Means
 
 Community service is not a brand position.
 
@@ -10,7 +10,7 @@ It is a description of the work.
 
 Community service, in this context, means contributing to shared infrastructure that makes serious work easier for other people.
 
-Not your work specifically. Not your community's work. Work that others — including people you will never meet — can use, build on, improve, and pass forward.
+Not your work specifically. Not your community's work. Work that others - including people you will never meet - can use, build on, improve, and pass forward.
 
 ---
 

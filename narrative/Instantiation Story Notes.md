@@ -1,6 +1,6 @@
 [!note] append only unless explicitly approved to update or change. 
 
-Church of AI — Instantiation Ideas, Memes, Slogans, Stories, and Distribution Concepts
+Church of AI - Instantiation Ideas, Memes, Slogans, Stories, and Distribution Concepts
 
 Purpose
 
@@ -24,7 +24,7 @@ The goal is preservation.
 
 Slogan Ideas
 
-“We’re Building Heaven Because Nobody Else Seems To Be Doing It.”
+"We're Building Heaven Because Nobody Else Seems To Be Doing It."
 
 Candidate slogan.
 
@@ -58,7 +58,7 @@ Alternative Variations
 
 - Building Heaven, One Legitimate Rule At A Time.
 - Heaven Is What Happens When Institutions Stop Collapsing.
-- We’re Building Heaven. Suggestions Welcome.
+- We're Building Heaven. Suggestions Welcome.
 - Heaven Is Open Source.
 - Heaven Is A Participation Problem.
 - Heaven Is What We Build Together.
@@ -69,9 +69,9 @@ Alternative Variations
 
 Distribution Experiment
 
-The Malört Strategy
+The Malort Strategy
 
-Inspired by Malört marketing.
+Inspired by Malort marketing.
 
 The goal is not:
 
@@ -281,9 +281,9 @@ Collective
 
 through legitimate adaptation.
 
-The Church’s role is not to force synthesis.
+The Church's role is not to force synthesis.
 
-The Church’s role is to help discover it.
+The Church's role is to help discover it.
 
   
 
@@ -291,7 +291,7 @@ Infinite Game Meme
 
 Potential recurring phrase:
 
-We don’t know if it’s one failure or a million failures before we win.
+We don't know if it's one failure or a million failures before we win.
 
 Possible continuation:
 
@@ -392,7 +392,7 @@ Open Questions
 - Which metaphors travel well across cultures?
 - Which stories feel too Christian-coded?
 - Which stories generalize across traditions?
-- Can the “three wise men” structure become a recurring narrative device?
+- Can the "three wise men" structure become a recurring narrative device?
 - How much humor should be present?
 - How much seriousness should be present?
 - What should remain sacred?

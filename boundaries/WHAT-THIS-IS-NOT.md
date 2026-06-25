@@ -8,7 +8,7 @@ This page exists because the things this is not are easy to read into.
 
 The aesthetic is satirical. The name is a joke. The structure is open-source and anti-dogmatic.
 
-If it starts to feel like a cult — unfalsifiable claims, founder mythology, pressure to agree, suspension of critical thinking — that is a failure mode, not the vision.
+If it starts to feel like a cult - unfalsifiable claims, founder mythology, pressure to agree, suspension of critical thinking - that is a failure mode, not the vision.
 
 The joke filters the unserious. It is not an invitation to uncritical belief.
 

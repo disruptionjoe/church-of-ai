@@ -35,6 +35,6 @@ See [OPEN-SOURCE-COMMUNITY-SERVICE.md](OPEN-SOURCE-COMMUNITY-SERVICE.md) for the
 
 *This section will track actual community service outputs as they are produced.*
 
-Time as Finality research and workflow documentation — active.
+Time as Finality research and workflow documentation - active.
 
 No other service outputs are claimed yet. The participation pathways are [not yet open](../participation/NOT-YET.md).

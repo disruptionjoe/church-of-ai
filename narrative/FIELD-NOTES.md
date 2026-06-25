@@ -4,7 +4,7 @@
 
 ---
 
-## June 2026 — Initial public entryway
+## June 2026 - Initial public entryway
 
 The repo is live. The structure is in place. The voice is established.
 

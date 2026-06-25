@@ -1,4 +1,4 @@
-# Repos — Church of AI Ecosystem
+# Repos - Church of AI Ecosystem
 
 Direct descriptions of the independent projects in this neighborhood.
 
@@ -34,7 +34,7 @@ First application of the mathematical core. Next target is typed multiscale tran
 
 **[github.com/disruptionjoe/architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)**
 
-What it does: study legitimacy, contribution recognition, public goods, adaptive governance, and reward systems as open research questions — not solved problems.
+What it does: study legitimacy, contribution recognition, public goods, adaptive governance, and reward systems as open research questions - not solved problems.
 
 What it does not do: pretend these problems are solved, operate as a DAO, or claim governance authority before earning it.
 

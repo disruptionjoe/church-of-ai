@@ -47,11 +47,11 @@ No revelation without receipts.
 
 ## The ecosystem
 
-**[Time as Finality](https://github.com/disruptionjoe/time-as-finality)** — A proving ground for whether AI-assisted research can stay coherent under pressure. The first live lab.
+**[Time as Finality](https://github.com/disruptionjoe/time-as-finality)** - A proving ground for whether AI-assisted research can stay coherent under pressure. The first live lab.
 
-**[Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)** — The place where the rules of valid contribution are studied before anyone pretends to have solved them. Its S7 crosswalk maps the legitimacy-monad idea onto contribution workflows, contestability, retained records, rights, governance transitions, and capture resistance.
+**[Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)** - The place where the rules of valid contribution are studied before anyone pretends to have solved them. Its S7 crosswalk maps the legitimacy-monad idea onto contribution workflows, contestability, retained records, rights, governance transitions, and capture resistance.
 
-**GU Formalization** — An adjacent technical research project. Remains independent.
+**GU Formalization** - An adjacent technical research project. Remains independent.
 
 Start with the [ecosystem map](ecosystem/MAP.md) or the [reading sequence](ecosystem/SEQUENCE.md).
 

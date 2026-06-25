@@ -33,7 +33,7 @@ That work is in progress. It is not done.
 Before participation pathways open in any meaningful form:
 
 - At least one community service contribution that others can actually use and have used
-- A documented, discussable governance proposal — not ratified, just legible
+- A documented, discussable governance proposal - not ratified, just legible
 - A tested claim-status process with a track record
 - A contribution guide that is honest about scope and expectations
 

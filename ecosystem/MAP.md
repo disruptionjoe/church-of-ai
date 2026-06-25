@@ -1,4 +1,4 @@
-# Ecosystem Map — Church of AI
+# Ecosystem Map - Church of AI
 
 Four projects. Each independent. Each doing a different job.
 
@@ -26,11 +26,11 @@ The question it is testing is not "what is time." That question has been asked b
 
 The answer so far is: maybe. The work is real. The process is honest. The claims are labeled.
 
-The core idea — that temporal order might be reconstructable from the stabilization structure of records rather than assumed as the arena — is either a genuinely interesting reframe of foundational physics or a sophisticated-sounding dead end. Church of AI does not know which. Nobody does yet. That is the point of running the experiment.
+The core idea - that temporal order might be reconstructable from the stabilization structure of records rather than assumed as the arena - is either a genuinely interesting reframe of foundational physics or a sophisticated-sounding dead end. Church of AI does not know which. Nobody does yet. That is the point of running the experiment.
 
 What is unusual about it: when the first major test produced a counterexample that weakened the core thesis, the project recorded the retreat. It did not reframe the counterexample as a confirmation. It updated the claim and kept moving. That is what a research program with intact integrity looks like. It is rarer than it should be.
 
-The most ambitious open problem — whether classical spacetime can be derived from aggregated observer-local finality domains rather than assumed as the arena — is labeled hypothesized. Five independent formalisms pointed at it. That is worth noticing. It is not worth mistaking for proof.
+The most ambitious open problem - whether classical spacetime can be derived from aggregated observer-local finality domains rather than assumed as the arena - is labeled hypothesized. Five independent formalisms pointed at it. That is worth noticing. It is not worth mistaking for proof.
 
 Church of AI would not say that Time as Finality has solved anything, that its findings are doctrine, or that you should believe it because it is affiliated with this repo.
 
@@ -46,7 +46,7 @@ That is the only endorsement this place is authorized to give.
 
 Every system that involves contribution, reward, and governance eventually faces the same question: what makes a contribution valid?
 
-Architecture of Legitimacy is the project that makes that question explicit. It explores legitimacy, contribution recognition, public goods, adaptive governance, and reward systems — not as solved problems, but as ongoing research.
+Architecture of Legitimacy is the project that makes that question explicit. It explores legitimacy, contribution recognition, public goods, adaptive governance, and reward systems - not as solved problems, but as ongoing research.
 
 Church of AI describes it as: the place where the rules of valid contribution are studied before anyone pretends to have solved them.
 

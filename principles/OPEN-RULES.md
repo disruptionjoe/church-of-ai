@@ -25,7 +25,7 @@ When revision is a standard process rather than an exception, the rules stay clo
 3. **Tested.** The rule runs in practice and its effects are observed.
 4. **Revised.** What was learned feeds back into the rule.
 5. **Documented.** The current version and the history of changes are visible.
-6. **Ratified.** At some point, the rule is marked as adopted — not final, but stable.
+6. **Ratified.** At some point, the rule is marked as adopted - not final, but stable.
 
 This process takes longer than having one person decide. That is a feature, not a bug.
 

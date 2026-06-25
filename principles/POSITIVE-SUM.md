@@ -10,7 +10,7 @@ It is the ability to recognize and build positive-sum games.
 
 A positive-sum game is one where participants can both win. Not equally, not without tradeoffs, but without requiring the other's loss as the condition for your success.
 
-Most of the coordination failures worth worrying about are not caused by bad people. They are caused by systems where the optimal individual move is destructive to the whole — where defecting beats cooperating, where cheating beats contributing, where extraction beats investment.
+Most of the coordination failures worth worrying about are not caused by bad people. They are caused by systems where the optimal individual move is destructive to the whole - where defecting beats cooperating, where cheating beats contributing, where extraction beats investment.
 
 The research question this ecosystem keeps returning to is: what would it take to build systems where that is not true?
 

@@ -1,4 +1,4 @@
-# Reading Sequence — Church of AI
+# Reading Sequence - Church of AI
 
 Where to start depends on what you are looking for.
 
@@ -6,17 +6,17 @@ Where to start depends on what you are looking for.
 
 ## If you just arrived and want to understand what this is
 
-1. [README.md](../README.md) — the front door, the voice, the framing
-2. [What is Church of AI?](../narrative/WHAT-IS-CHURCH-OF-AI.md) — longer form
-3. [What this is not](../boundaries/WHAT-THIS-IS-NOT.md) — clears up the common misreadings
-4. [Claim status](../boundaries/CLAIM-STATUS.md) — how seriously to take any given claim here
+1. [README.md](../README.md) - the front door, the voice, the framing
+2. [What is Church of AI?](../narrative/WHAT-IS-CHURCH-OF-AI.md) - longer form
+3. [What this is not](../boundaries/WHAT-THIS-IS-NOT.md) - clears up the common misreadings
+4. [Claim status](../boundaries/CLAIM-STATUS.md) - how seriously to take any given claim here
 
 ---
 
 ## If you want to understand the ecosystem
 
-1. [Ecosystem map](MAP.md) — what the projects are and how they relate
-2. [Repos](REPOS.md) — direct links and honest descriptions
+1. [Ecosystem map](MAP.md) - what the projects are and how they relate
+2. [Repos](REPOS.md) - direct links and honest descriptions
 3. Then go to the repo you are most interested in
 
 ---
@@ -47,6 +47,6 @@ Church of AI is the map. The research lives in the research repos.
 
 ## Suggested starting point for most people
 
-README → WHAT-IS-CHURCH-OF-AI → WHAT-THIS-IS-NOT → ecosystem/MAP → wherever your interest leads.
+README -> WHAT-IS-CHURCH-OF-AI -> WHAT-THIS-IS-NOT -> ecosystem/MAP -> wherever your interest leads.
 
 That is probably fifteen minutes of reading. If something rings true, go deeper. If not, no harm done.
