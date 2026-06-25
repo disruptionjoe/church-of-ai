@@ -32,13 +32,15 @@ First application of the mathematical core. Next target is typed multiscale tran
 
 ## Architecture of Legitimacy
 
-**Not yet public**
+**[github.com/disruptionjoe/architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)**
 
-What it will do: study legitimacy, contribution recognition, public goods, adaptive governance, and reward systems as open research questions — not solved problems.
+What it does: study legitimacy, contribution recognition, public goods, adaptive governance, and reward systems as open research questions — not solved problems.
 
-What it will not do: pretend these problems are solved, operate as a DAO, or claim governance authority before earning it.
+What it does not do: pretend these problems are solved, operate as a DAO, or claim governance authority before earning it.
 
-Status: **In development. No public repo yet.**
+Status: **Active early research**
+
+Current crosswalk: [Legitimacy Monad S7 Crosswalk](https://github.com/disruptionjoe/architecture-of-legitimacy/blob/main/explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md), connecting S7 to contribution validation, contestability, retained records, rights, governance transitions, and capture monitoring.
 
 ---
 

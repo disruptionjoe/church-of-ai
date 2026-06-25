@@ -64,6 +64,9 @@ Status: Hypothesized strongly. Supported by existing game theory and institution
 **"Open governance can earn legitimacy."**
 Status: Hypothesized. No track record yet. Architecture of Legitimacy is the research direction aimed at this.
 
+**"The S7 legitimacy-monad framing can ground real contribution workflows."**
+Status: Hypothesized, now testable. Architecture of Legitimacy has a crosswalk and proposed workflow test; it has not yet run the contribution-log experiment.
+
 ---
 
 ## The rule

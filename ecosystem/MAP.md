@@ -42,7 +42,7 @@ That is the only endorsement this place is authorized to give.
 
 ## Architecture of Legitimacy
 
-**In development. Not yet public.**
+**[github.com/disruptionjoe/architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)**
 
 Every system that involves contribution, reward, and governance eventually faces the same question: what makes a contribution valid?
 
@@ -50,7 +50,7 @@ Architecture of Legitimacy is the project that makes that question explicit. It 
 
 Church of AI describes it as: the place where the rules of valid contribution are studied before anyone pretends to have solved them.
 
-This project does not yet have a public repo. When it does, this map will link to it.
+Current S7 crosswalk: [Legitimacy Monad S7 Crosswalk](https://github.com/disruptionjoe/architecture-of-legitimacy/blob/main/explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md). It maps the formal legitimacy-monad idea onto contribution workflows, visible records, contestability, rights, governance transitions, and capture resistance.
 
 ---
 
