@@ -1,0 +1,21 @@
+# --- CapacityOS standard repo .gitignore ---
+
+# Scratch / working state only: temporary files, caches, intermediate renders.
+# (Durable artifacts do NOT go here -- they go to the mirrored JB/library/.
+#  Secrets/regulated docs do NOT go here -- they go to the secure vault.
+#  See CapacityOS/system/meta/architecture/artifact-information-architecture.md.)
+_local/
+
+# Video binaries do not belong in git. Durable video is a class-2 artifact ->
+# JB/library/repos/{private,public}/<repo>/ (mirrored). _local is scratch only.
+*.mp4
+*.mov
+*.avi
+*.webm
+*.mkv
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*~
+*.tmp
