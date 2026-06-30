@@ -1,6 +1,8 @@
-# AGENT.md - Church of AI
+# VOICE.md - Church of AI
 
-Instructions for AI agents working in this repo.
+Voice, claim-status discipline, and "what not to do" rules for anyone (human or agent)
+writing content in this repo. (Renamed from AGENT.md 2026-06-30; the steward operating
+contract lives in `AGENTS.md`.)
 
 ## Voice
 

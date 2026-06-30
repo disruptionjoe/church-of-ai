@@ -45,7 +45,7 @@ The repo currently uses:
 | `updates/` | Plain-language development updates |
 
 This structure is already legible and voice-compatible. It is also aligned with
-`AGENT.md`: Church is a public map and narrative entryway, not a research repo,
+`VOICE.md`: Church is a public map and narrative entryway, not a research repo,
 parent org, or governance authority.
 
 ### Proposed Three-Domain Model

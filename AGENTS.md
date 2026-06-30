@@ -10,8 +10,8 @@ this repository. Do not load the chronological steward memory log
 (`steward/memory-log.md`) by default; use it only for stewardship/memory work or when this
 summary appears incomplete.
 
-This contract governs steward operations. It does not replace `AGENT.md`, which carries
-this repo's voice, claim-status discipline, and "what not to do" rules. Read `AGENT.md`
+This contract governs steward operations. It does not replace `VOICE.md`, which carries
+this repo's voice, claim-status discipline, and "what not to do" rules. Read `VOICE.md`
 before writing any repo content; read this file before doing steward/governance work. ASCII
 punctuation is a house rule here (prefer `-`, `->`, straight quotes); honor it in this file
 too.

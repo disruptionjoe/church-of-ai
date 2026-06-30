@@ -14,7 +14,7 @@ confuse with a startup, cult, political party, or academic paper.
 Primary local sources:
 
 - `README.md`
-- `AGENT.md`
+- `VOICE.md`
 - `STATUS.md`
 - `ROADMAP.md`
 - `narrative/WHAT-IS-CHURCH-OF-AI.md`

@@ -26,6 +26,6 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
 - **2026-06-30 -- consistency sweep.** `.gitignore` ignores `_local/`; AGENTS.md artifact
   zones match the locked Information Classification (versioned -> repo; durable ->
   JB/library/repos/public/church-of-ai/; secrets -> vault; scratch -> _local/); AGENTS.md
-  coexists with the pre-existing AGENT.md by explicit cross-reference (no content deleted);
+  coexists with the voice guide (renamed AGENT.md -> VOICE.md on 2026-06-30) by explicit cross-reference (no content deleted);
   no progress scaffolding to verify (no-op); no transcribe-then-retire obligation
   outstanding.
