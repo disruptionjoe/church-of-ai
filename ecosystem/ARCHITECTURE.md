@@ -70,6 +70,8 @@ Use them as a mental model for where future documents belong.
 
 The ecosystem is a neighborhood, not a hierarchy.
 
+For practical bridge routing, see `BRIDGE-GUIDE.md`.
+
 ## Repository Orientation Pattern
 
 Every repo should primarily know itself.
@@ -199,4 +201,3 @@ Keep Church of AI simple:
 Connect them with small, explicit bridges.
 
 That is the scalable version.
-
