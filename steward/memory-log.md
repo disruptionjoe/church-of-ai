@@ -33,3 +33,4 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
 
 - Stewardship fleet pass checked the mailbox and found no proposal messages; logged restraint/deferred-pathway clarity as the main ongoing stewardship pattern. See `steward/runs/2026-07-01-stewardship-fleet-pass.md`.
 - Discovery fleet pass found restraint is currently a feature: update the public entryway only when the ecosystem map/status becomes misleading, and keep V2/V3 deferred. See `steward/runs/2026-07-01-discovery-fleet-pass.md`.
+- Progress fleet pass deliberately ended as `no_worthy_work`: the entryway, roadmap, status page, and ecosystem map remain aligned, and additive edits would risk making deferred participation/governance sound live or absorbing adjacent research truth. See `steward/runs/2026-07-01-progress-fleet-pass.md`.
