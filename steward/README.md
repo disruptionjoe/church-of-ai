@@ -89,3 +89,4 @@ Supports CapacityOS-orchestrated and direct repo-mounted runs. Automations are t
 - `STATUS.md`
 - `boundaries/CLAIM-STATUS.md`
 - `README.md`
+- `ecosystem/BRIDGE-GUIDE.md`
