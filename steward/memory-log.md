@@ -29,3 +29,6 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   coexists with the voice guide (renamed AGENT.md -> VOICE.md on 2026-06-30) by explicit cross-reference (no content deleted);
   no progress scaffolding to verify (no-op); no transcribe-then-retire obligation
   outstanding.
+## 2026-07-01
+
+- Discovery fleet pass found restraint is currently a feature: update the public entryway only when the ecosystem map/status becomes misleading, and keep V2/V3 deferred. See `steward/runs/2026-07-01-discovery-fleet-pass.md`.
