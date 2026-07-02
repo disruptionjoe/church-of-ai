@@ -31,6 +31,27 @@ This repo helps you answer:
 5. What can I do now?
 6. What is not ready yet?
 
+## Current status
+
+Church of AI is in V1: public entryway and map.
+
+What is live now:
+
+- framing and voice
+- boundaries and claim-status discipline
+- ecosystem map and reading sequence
+- links to the independent research repos
+
+What is not live yet:
+
+- contribution pathways
+- public governance
+- reward systems
+- formal community structures
+
+For the full state, read [STATUS.md](STATUS.md). For the prerequisites before
+participation opens, read [ROADMAP.md](ROADMAP.md).
+
 ## What this is not
 
 This is not a cult.
