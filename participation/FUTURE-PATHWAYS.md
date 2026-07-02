@@ -39,7 +39,7 @@ Each pathway opens when:
 3. Participation would improve the work rather than perform community
 4. The contribution process is honest about what it is and what it isn't
 
-These will be announced through the [updates](../updates/) folder and STATUS.md when they are ready.
+These will be announced through the [updates](../updates/) folder and [STATUS.md](../STATUS.md) when they are ready.
 
 ---
 
