@@ -31,10 +31,27 @@ See [OPEN-SOURCE-COMMUNITY-SERVICE.md](OPEN-SOURCE-COMMUNITY-SERVICE.md) for the
 
 ---
 
+## How service gets tracked
+
+A service output belongs in the current-service list only when it can name:
+
+- the usable artifact or practice;
+- where the evidence lives;
+- the current claim status;
+- the limit of the claim.
+
+If those are missing, keep the item in roadmap or aspiration language. Do not
+list it as current service just because it sounds helpful.
+
+---
+
 ## Current service
 
-*This section will track actual community service outputs as they are produced.*
+*This section tracks actual community service outputs as they are produced. It
+does not open participation pathways.*
 
-Time as Finality research and workflow documentation - active.
+| Tracked activity | Evidence | Status | Claim limit |
+|---|---|---|---|
+| Time as Finality research and workflow documentation | [Time as Finality](https://github.com/disruptionjoe/time-as-finality) public repo and its recorded research/workflow docs | Being tested | Evidence that the service frame is being tested; not evidence that participation pathways are open, governance is operational, or the research claims are proven. |
 
 No other service outputs are claimed yet. The participation pathways are [not yet open](../participation/NOT-YET.md).
