@@ -5,6 +5,10 @@ Status: first working packet
 This folder develops candidate Church of AI manifesto language without treating
 the first draft as final.
 
+This is draft scaffolding, not canonical public posture. Nothing in this
+folder ratifies doctrine, opens participation, changes governance status, or
+overrides `VOICE.md`, `STATUS.md`, `ROADMAP.md`, or the claim-status boundary.
+
 The goal is not speed. The goal is a manifesto voice that is memorable,
 emotionally alive, intellectually serious, funny when appropriate, and hard to
 confuse with a startup, cult, political party, or academic paper.
