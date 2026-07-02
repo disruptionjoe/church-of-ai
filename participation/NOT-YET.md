@@ -24,6 +24,9 @@ It creates the appearance of community without the substance. It invites people 
 
 The architecture of legitimacy has to be studied before it can be applied.
 
+Start with the [Architecture of Legitimacy entry](../ecosystem/MAP.md#architecture-of-legitimacy)
+in the ecosystem map if you want to understand that research direction.
+
 That work is in progress. It is not done.
 
 ---
