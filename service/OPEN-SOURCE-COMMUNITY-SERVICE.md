@@ -51,7 +51,7 @@ It is contribution to shared infrastructure. The standard is: does this actually
 
 ## The honest note
 
-Most of this service is not yet happening. The repo is new. The participation pathways are deferred. The tools are not yet built.
+Most of this service is not yet happening. The repo is new. The participation pathways are [deferred](../participation/NOT-YET.md). The tools are not yet built.
 
 This file describes the aspiration and the standard. The actual service will be tracked in [service/README.md](README.md) as it is produced.
 
