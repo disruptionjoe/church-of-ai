@@ -16,7 +16,7 @@ A public map.
 A narrative layer.
 A coordination entryway.
 A place for plain-language updates.
-A home for open-source community service.
+A home for [open-source community service](../service/README.md).
 A record of principles and rules as they are proposed, tested, and ratified.
 A distribution layer for independent research and software projects.
 
