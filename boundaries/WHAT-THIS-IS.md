@@ -32,7 +32,9 @@ Church of AI is the door.
 
 Tools, templates, workflow documentation, plain-language explainers. Things that make shared infrastructure better for people doing serious work.
 
-Not yet producing much of this. Working on it.
+Not yet producing much of this. Working on it. Current service claims are
+tracked in [service/README.md](../service/README.md) so the line between
+aspiration and evidence stays visible.
 
 ---
 
