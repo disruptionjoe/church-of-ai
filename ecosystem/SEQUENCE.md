@@ -39,7 +39,11 @@ The honest answer is that participation pathways are deferred. Read why before d
 
 ## If you want to understand the research
 
-Go to [Time as Finality](https://github.com/disruptionjoe/time-as-finality) directly.
+Use the repo whose question you care about:
+
+1. [Time as Finality](https://github.com/disruptionjoe/time-as-finality) - the first live lab for AI-assisted research under pressure, and the place to inspect the technical receipts.
+2. [Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy) - the place to inspect contribution legitimacy, governance, rights, reward, and capture-resistance questions.
+3. GU Formalization - adjacent independent technical research. It is in the neighborhood, but Church of AI does not speak for it.
 
 Church of AI is the map. The research lives in the research repos.
 
