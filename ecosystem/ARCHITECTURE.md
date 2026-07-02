@@ -164,6 +164,7 @@ unlock_type:
 why_it_may_transfer:
 what_must_not_transfer:
 evidence:
+receiving_repo_decision_needed:
 noise_risk:
 recommended_next_action:
 ```
