@@ -19,3 +19,6 @@ _local/
 Thumbs.db
 *~
 *.tmp
+
+# Internal CapacityOS fan-out run records (ops artifacts; not published)
+steward/runs/
