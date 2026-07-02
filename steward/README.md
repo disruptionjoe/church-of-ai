@@ -52,8 +52,8 @@ This repo owns its voice, framing, claim-status discipline, ecosystem map, entry
 
 - Research truth routes to the owning research repo.
 - CapacityOS architecture questions route to `CapacityOS`.
-- JoeOps coordination questions route to `CapacityOS\repos\private\joeops`.
-- Durable artifacts belong in `library\repos\public\church-of-ai\`.
+- JoeOps coordination questions route to the `joeops` repo.
+- Durable artifacts belong in the public library mirror for `church-of-ai`.
 - Scratch belongs in `_local/`.
 
 ## Candidate Decisions
