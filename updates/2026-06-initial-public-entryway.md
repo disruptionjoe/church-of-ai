@@ -17,7 +17,7 @@ This is the smallest useful version.
 ## What is here
 
 - README with framing and front door
-- AGENT.md for AI agents working in this repo
+- AGENTS.md for AI agents working in this repo
 - STATUS.md and ROADMAP.md with honest state
 - ecosystem/ - MAP, SEQUENCE, REPOS
 - narrative/ - WHAT-IS-CHURCH-OF-AI, WHY-THIS-EXISTS, FIELD-NOTES
