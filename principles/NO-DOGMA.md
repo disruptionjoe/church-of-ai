@@ -23,7 +23,7 @@ Dogma in a project like this tends to arrive in a few specific forms:
 
 ## What anti-dogma requires
 
-Claim-status discipline. Every major claim gets labeled: proven so far, being tested, hypothesized, or deferred. Not as bureaucracy. As honesty.
+[Claim-status discipline](../boundaries/CLAIM-STATUS.md). Every major claim gets labeled: proven so far, being tested, hypothesized, or deferred. Not as bureaucracy. As honesty.
 
 The willingness to say "we were wrong about this." The willingness to update publicly. The willingness to hold principles lightly enough to revise them when they stop working.
 
