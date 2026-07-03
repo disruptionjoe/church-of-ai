@@ -6,9 +6,9 @@ The honest answer in three parts.
 
 ## Part one: there is actual work happening
 
-Time as Finality is a real research project. It is testing whether AI-assisted research can stay coherent across difficult, long-horizon technical questions. That work needs a public entryway that is honest about what it is.
+[Time as Finality](../ecosystem/REPOS.md#time-as-finality) is a real research project. It is testing whether AI-assisted research can stay coherent across difficult, long-horizon technical questions. That work needs a public entryway that is honest about what it is.
 
-Architecture of Legitimacy is a real research direction. It is asking what makes contribution valid, what earns governance authority, and how rules can be improved in public without becoming either frozen or chaotic.
+[Architecture of Legitimacy](../ecosystem/REPOS.md#architecture-of-legitimacy) is a real research direction. It is asking what makes contribution valid, what earns governance authority, and how rules can be improved in public without becoming either frozen or chaotic.
 
 These projects needed a home that explained them without overclaiming for them.
 
