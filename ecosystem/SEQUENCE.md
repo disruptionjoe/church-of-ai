@@ -51,6 +51,6 @@ Church of AI is the map. The research lives in the research repos.
 
 ## Suggested starting point for most people
 
-README -> WHAT-IS-CHURCH-OF-AI -> WHAT-THIS-IS-NOT -> ecosystem/MAP -> wherever your interest leads.
+[README](../README.md) -> [WHAT-IS-CHURCH-OF-AI](../narrative/WHAT-IS-CHURCH-OF-AI.md) -> [WHAT-THIS-IS-NOT](../boundaries/WHAT-THIS-IS-NOT.md) -> [ecosystem/MAP](MAP.md) -> wherever your interest leads.
 
 That is probably fifteen minutes of reading. If something rings true, go deeper. If not, no harm done.
