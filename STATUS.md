@@ -15,10 +15,12 @@ No claims have been ratified beyond what is demonstrated in the repos themselves
 ## What is live
 
 - Public entryway with framing and voice
-- Ecosystem map connecting the independent repos
-- Boundaries documentation: what this is and is not
-- Claim-status discipline
-- Time as Finality repo (active, independent)
+- [Ecosystem map](ecosystem/MAP.md) connecting the independent repos
+- Boundaries documentation: [what this is](boundaries/WHAT-THIS-IS.md) and
+  [what this is not](boundaries/WHAT-THIS-IS-NOT.md)
+- [Claim-status discipline](boundaries/CLAIM-STATUS.md)
+- [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
+  (active, independent)
 
 ## What is being tested
 
@@ -34,7 +36,7 @@ No claims have been ratified beyond what is demonstrated in the repos themselves
 
 ## What is deferred
 
-- Open contribution pathways
+- [Open contribution pathways](participation/NOT-YET.md)
 - Public governance of any kind
 - Reward systems
 - Formal community structures
