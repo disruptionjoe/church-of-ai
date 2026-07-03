@@ -18,7 +18,7 @@ The joke filters the unserious. It is not an invitation to uncritical belief.
 
 The satirical wrapper has to be earned by the work inside it. If the humor is all there is, it is satire without content.
 
-The work is in the research repos. The jokes are at the door.
+The work is in the [research repos](../ecosystem/REPOS.md). The jokes are at the door.
 
 ---
 
@@ -37,7 +37,7 @@ If this ever moves in that direction without a compelling, publicly documented, 
 
 Church of AI does not ratify research claims. It does not adjudicate between competing findings. It does not certify that any claim made in any ecosystem repo is correct.
 
-The research repos are independent. They stand or fall on their own merits.
+The [research repos](../ecosystem/REPOS.md) are independent. They stand or fall on their own merits.
 
 ---
 
@@ -53,7 +53,7 @@ The relationship is narrative and coordinative, not hierarchical.
 
 When a research project produces a finding, that finding does not automatically become a principle of the Church.
 
-Claim-status discipline applies to everything. See [CLAIM-STATUS.md](CLAIM-STATUS.md).
+[Claim-status discipline](CLAIM-STATUS.md) applies to everything.
 
 ---
 
