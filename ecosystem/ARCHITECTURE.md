@@ -5,7 +5,7 @@ Status: working orientation
 This document is the practical agent-facing version of the ecosystem
 architecture. The longer reasoning artifact remains:
 
-`ecosystem/ECOSYSTEM-ORIENTATION-AND-REPOSITORY-ARCHITECTURE-REPORT.md`
+[ecosystem/ECOSYSTEM-ORIENTATION-AND-REPOSITORY-ARCHITECTURE-REPORT.md](ECOSYSTEM-ORIENTATION-AND-REPOSITORY-ARCHITECTURE-REPORT.md)
 
 ## Core Rule
 
@@ -49,9 +49,9 @@ The repo can be understood through three functions:
 
 | Function | Meaning | Current homes |
 | --- | --- | --- |
-| System | The Church itself as identity, norms, boundaries, culture, and governance readiness | `boundaries/`, `principles/`, parts of `participation/` |
-| Operations | Active ecosystem orientation, projects, service outputs, updates, and participation surfaces | `ecosystem/`, `service/`, `updates/`, parts of `participation/` |
-| Meta | Long-horizon vision, strategy, ecosystem architecture, roadmap, risks, and phase changes | `narrative/`, `ROADMAP.md`, `STATUS.md`, architecture reports |
+| System | The Church itself as identity, norms, boundaries, culture, and governance readiness | [boundaries/](../boundaries/), [principles/](../principles/), parts of [participation/](../participation/) |
+| Operations | Active ecosystem orientation, projects, service outputs, updates, and participation surfaces | [ecosystem/](./), [service/](../service/), [updates/](../updates/), parts of [participation/](../participation/) |
+| Meta | Long-horizon vision, strategy, ecosystem architecture, roadmap, risks, and phase changes | [narrative/](../narrative/), [ROADMAP.md](../ROADMAP.md), [STATUS.md](../STATUS.md), [architecture reports](ECOSYSTEM-ORIENTATION-AND-REPOSITORY-ARCHITECTURE-REPORT.md) |
 
 Do not reorganize the repo around `system/`, `operations/`, and `meta/` yet.
 Use them as a mental model for where future documents belong.
@@ -70,7 +70,7 @@ Use them as a mental model for where future documents belong.
 
 The ecosystem is a neighborhood, not a hierarchy.
 
-For practical bridge routing, see `BRIDGE-GUIDE.md`.
+For practical bridge routing, see [BRIDGE-GUIDE.md](BRIDGE-GUIDE.md).
 
 ## Repository Orientation Pattern
 
@@ -104,7 +104,7 @@ Bridge knowledge should say:
 
 ### 3. Global Reference
 
-The full ecosystem map lives here, in Church of AI.
+The full [ecosystem map](MAP.md) lives here, in Church of AI.
 
 Other repos may link to it, but should not load it by default unless the task is
 about ecosystem coordination, public framing, governance, or cross-repo
