@@ -15,12 +15,12 @@ Status: **In progress**
 
 ## V2 - Participation foundation
 
-Prerequisites before participation pathways open:
+Prerequisites before participation pathways open (they are [not open yet](participation/NOT-YET.md)):
 
 - At least one community service contribution that others can actually use
 - A documented governance proposal (not ratified, just proposed and discussable)
 - A clear contribution guide with honest scope
-- A tested claim-status process
+- A tested [claim-status process](boundaries/CLAIM-STATUS.md)
 
 Status: **Deferred**
 
