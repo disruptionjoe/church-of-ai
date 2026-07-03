@@ -76,4 +76,6 @@ Not as an oracle. Not as an authority. Not as a god.
 
 The name is the joke. The joke is the filter. The filter is the point.
 
-No one joins a church by accident. Either you get it and you're curious, or you don't get it and you leave. Both outcomes are correct.
+It is not an invitation to suspend judgment. It is a way to make the frame obvious before anyone mistakes it for doctrine, worship, or a normal brand exercise.
+
+If the joke makes someone curious enough to inspect the work, good. If it tells someone this is probably not their room, also good. Both outcomes are useful.
