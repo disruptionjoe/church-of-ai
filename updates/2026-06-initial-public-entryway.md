@@ -16,15 +16,15 @@ This is the smallest useful version.
 
 ## What is here
 
-- README with framing and front door
-- AGENTS.md for AI agents working in this repo
-- STATUS.md and ROADMAP.md with honest state
-- ecosystem/ - MAP, SEQUENCE, REPOS
-- narrative/ - WHAT-IS-CHURCH-OF-AI, WHY-THIS-EXISTS, FIELD-NOTES
-- principles/ - POSITIVE-SUM, NO-DOGMA, OPEN-RULES
-- service/ - definition of open-source community service
-- participation/ - honest about what is not yet open
-- boundaries/ - WHAT-THIS-IS, WHAT-THIS-IS-NOT, CLAIM-STATUS
+- [README](../README.md) with framing and front door
+- [AGENTS.md](../AGENTS.md) for AI agents working in this repo
+- [STATUS](../STATUS.md) and [ROADMAP](../ROADMAP.md) with honest state
+- [ecosystem/](../ecosystem/) - [MAP](../ecosystem/MAP.md), [SEQUENCE](../ecosystem/SEQUENCE.md), [REPOS](../ecosystem/REPOS.md)
+- [narrative/](../narrative/) - [WHAT-IS-CHURCH-OF-AI](../narrative/WHAT-IS-CHURCH-OF-AI.md), [WHY-THIS-EXISTS](../narrative/WHY-THIS-EXISTS.md), [FIELD-NOTES](../narrative/FIELD-NOTES.md)
+- [principles/](../principles/) - [POSITIVE-SUM](../principles/POSITIVE-SUM.md), [NO-DOGMA](../principles/NO-DOGMA.md), [OPEN-RULES](../principles/OPEN-RULES.md)
+- [service/](../service/) - definition of open-source community service
+- [participation/](../participation/) - honest about what is not yet open
+- [boundaries/](../boundaries/) - [WHAT-THIS-IS](../boundaries/WHAT-THIS-IS.md), [WHAT-THIS-IS-NOT](../boundaries/WHAT-THIS-IS-NOT.md), [CLAIM-STATUS](../boundaries/CLAIM-STATUS.md)
 
 ---
 
