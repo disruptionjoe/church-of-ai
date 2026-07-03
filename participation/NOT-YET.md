@@ -46,7 +46,7 @@ None of these are complete yet.
 
 ## What you can do now
 
-- Read the ecosystem
+- Read the [ecosystem map](../ecosystem/MAP.md) and [reading sequence](../ecosystem/SEQUENCE.md)
 - Follow [Time as Finality](https://github.com/disruptionjoe/time-as-finality)
 - Come back when the status changes
 - If you have something specific to offer, you know how to reach people
