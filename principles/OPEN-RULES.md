@@ -37,7 +37,7 @@ At launch, this ecosystem is governed by a founder. That is honest.
 
 The rules here in the early phase mostly mean: the founder can change them. This is not open rulemaking in full practice. It is the beginning of the path toward it.
 
-The commitment is to document that honestly, to not pretend decentralization has been earned before it has, and to build toward something more distributed as the ecosystem earns it.
+The commitment is to document that honestly, to not pretend decentralization has been earned before it has, and to build toward something more distributed as the ecosystem earns it. For the current participation boundary, start with [participation/NOT-YET.md](../participation/NOT-YET.md).
 
 Decentralization is not a costume. It is something the system has to earn.
 
