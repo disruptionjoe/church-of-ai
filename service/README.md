@@ -37,11 +37,11 @@ A service output belongs in the current-service list only when it can name:
 
 - the usable artifact or practice;
 - where the evidence lives;
-- the current claim status;
+- the [current claim status](../boundaries/CLAIM-STATUS.md);
 - the limit of the claim.
 
-If those are missing, keep the item in roadmap or aspiration language. Do not
-list it as current service just because it sounds helpful.
+If those are missing, keep the item in [roadmap](../ROADMAP.md) or aspiration
+language. Do not list it as current service just because it sounds helpful.
 
 ---
 
