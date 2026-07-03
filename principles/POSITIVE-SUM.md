@@ -48,3 +48,7 @@ Positive-sum coordination is not a utopian goal. It is an engineering problem.
 - It does not mean the collective always beats the individual.
 
 Positive-sum is a property of specific interactions in specific contexts. It is not a universal claim.
+
+The current evidence label for positive-sum coordination claims lives in
+[Claim status](../boundaries/CLAIM-STATUS.md). Treat that boundary as the
+guardrail, not this principle as proof.
