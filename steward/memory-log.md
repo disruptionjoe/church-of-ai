@@ -39,3 +39,8 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
 - Hourly progress fan-out surfaced the V1/deferred boundary directly in the README front door, using only status already present in `STATUS.md` and `ROADMAP.md`. Future front-door edits should keep current-state language as a bridge to existing status surfaces, not as a new claim source.
 - Hourly progress fan-out clarified `narrative/manifesto-development/` as draft scaffolding rather than canonical public posture. Future narrative-development areas should make their non-ratified status explicit when their labels could otherwise sound like doctrine.
 - Hourly progress fan-out added an `updates/` folder index that treats update notes as dated snapshots, not current-state or governance authority. Future public-history indexes should route to `STATUS.md`, `ROADMAP.md`, `VOICE.md`, and boundary docs rather than creating fresh posture claims.
+- Progress child run added a `principles/` folder index that treats principles as
+  orienting commitments to test against practice, not proof, doctrine,
+  participation rules, or operational governance. Future principle-heavy indexes
+  should keep routing subordinate to `CLAIM-STATUS.md`, `STATUS.md`,
+  `ROADMAP.md`, and participation boundaries.
