@@ -2,6 +2,12 @@
 
 *June 2026*
 
+Snapshot note: this update records the launch-state entryway as of June 2026.
+It does not override the current state in [STATUS.md](../STATUS.md),
+[ROADMAP.md](../ROADMAP.md), or the [boundary docs](../boundaries/README.md),
+and it does not open participation, ratify governance, change claim status, or
+move public posture.
+
 ---
 
 ## What happened
