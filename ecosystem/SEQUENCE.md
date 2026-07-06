@@ -15,17 +15,20 @@ Where to start depends on what you are looking for.
 
 ## If you want to understand the ecosystem
 
-1. [Ecosystem map](MAP.md) - what the projects are and how they relate
-2. [Repos](REPOS.md) - direct links and honest descriptions
-3. Then go to the repo you are most interested in
+1. [Ecosystem overview](README.md) - the map-room context and routing boundary
+2. [Ecosystem map](MAP.md) - what the projects are and how they relate
+3. [Repos](REPOS.md) - direct links and honest descriptions
+4. Then go to the repo you are most interested in
 
 ---
 
 ## If you want to understand the principles
 
-1. [Positive-sum coordination](../principles/POSITIVE-SUM.md)
-2. [No dogma](../principles/NO-DOGMA.md)
-3. [Open rules](../principles/OPEN-RULES.md)
+1. [Principles overview](../principles/README.md) - how to read the principles
+   without treating them as proof or governance
+2. [Positive-sum coordination](../principles/POSITIVE-SUM.md)
+3. [No dogma](../principles/NO-DOGMA.md)
+4. [Open rules](../principles/OPEN-RULES.md)
 
 ---
 
@@ -51,6 +54,6 @@ Church of AI is the map. The research lives in the research repos.
 
 ## Suggested starting point for most people
 
-[README](../README.md) -> [WHAT-IS-CHURCH-OF-AI](../narrative/WHAT-IS-CHURCH-OF-AI.md) -> [WHAT-THIS-IS-NOT](../boundaries/WHAT-THIS-IS-NOT.md) -> [ecosystem/MAP](MAP.md) -> wherever your interest leads.
+[README](../README.md) -> [narrative overview](../narrative/README.md) -> [boundaries](../boundaries/README.md) -> [ecosystem map](MAP.md) -> wherever your interest leads.
 
 That is probably fifteen minutes of reading. If something rings true, go deeper. If not, no harm done.
