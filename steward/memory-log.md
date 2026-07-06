@@ -49,3 +49,8 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   map membership or status. Future ecosystem route improvements should keep the
   index subordinate to owner-repo truth, `STATUS.md`, `ROADMAP.md`, and
   participation boundaries.
+- Progress child run added a `boundaries/` folder index that routes readers to
+  existing boundary and claim-status docs without changing hard policy, claim
+  status, public posture, governance, participation readiness, service claims,
+  adjacent repo truth, or research claims. Future boundary route improvements
+  should clarify where to check restraint without creating new rules.
