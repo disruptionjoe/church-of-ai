@@ -106,10 +106,16 @@ That is what this is testing.
 
 ## Start here
 
-- [What is Church of AI?](narrative/WHAT-IS-CHURCH-OF-AI.md)
-- [Why does this exist?](narrative/WHY-THIS-EXISTS.md)
-- [Ecosystem map](ecosystem/MAP.md)
-- [Claim status](boundaries/CLAIM-STATUS.md)
-- [What this is not](boundaries/WHAT-THIS-IS-NOT.md)
-- [Participation (not yet)](participation/NOT-YET.md)
-- [Current status](STATUS.md)
+- [Narrative](narrative/README.md) - the plain-language why and what.
+- [Ecosystem](ecosystem/README.md) - the map, reading sequence, repo list, and
+  bridge guide.
+- [Boundaries](boundaries/README.md) - what this is, what this is not, and
+  claim-status discipline.
+- [Principles](principles/README.md) - positive-sum coordination, no dogma, and
+  open rules.
+- [Open-source community service](service/README.md) - what service means here
+  and how it is tracked.
+- [Participation](participation/README.md) - what remains not yet open.
+- [Updates](updates/README.md) - dated snapshots of public-entryway changes.
+- [Current status](STATUS.md) and [roadmap](ROADMAP.md) - what is live, what is
+  deferred, and what has to be earned.
