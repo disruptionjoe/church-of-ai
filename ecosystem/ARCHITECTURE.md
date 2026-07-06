@@ -68,6 +68,11 @@ Use them as a mental model for where future documents belong.
 | GU Formalization | Independent technical research map and no-go discipline for GU-class formalization | Not absorbed into Church narrative |
 | Future repos | Local experiments, service projects, research programs, or governance pilots | Not automatic parts of one monolith |
 
+Use this table as role-orientation and bridge-routing context, not as the
+public ecosystem membership ledger. The public map and repo list remain
+[MAP.md](MAP.md) and [REPOS.md](REPOS.md); adding, removing, or reclassifying
+public map entries needs explicit review.
+
 The ecosystem is a neighborhood, not a hierarchy.
 
 For practical bridge routing, see [BRIDGE-GUIDE.md](BRIDGE-GUIDE.md).

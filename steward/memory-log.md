@@ -58,3 +58,8 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   readers to the current "not yet" answer before future-pathway sketches. Future
   participation route edits should keep `FUTURE-PATHWAYS.md` explicitly
   non-live unless Joe separately authorizes participation-readiness movement.
+- Progress child run clarified that `ecosystem/ARCHITECTURE.md` role tables are
+  orientation and bridge-routing context, not public ecosystem-map membership
+  ledgers. Future architecture-route edits should point membership questions to
+  `MAP.md` and `REPOS.md`, and leave additions, removals, or reclassifications
+  for explicit review.
