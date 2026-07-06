@@ -3,6 +3,12 @@
 Status: proposal
 Date: 2026-06-23
 
+Reader note: this report is the longer proposal and reasoning artifact. For
+the current compact orientation, use [ARCHITECTURE.md](ARCHITECTURE.md). Do
+not treat this report as authority to reorganize folders, change current
+status, update ecosystem map membership, or move participation/governance
+pathways out of their deferred state.
+
 ## Executive Summary
 
 Church of AI should remain the public entryway, narrative layer, and ecosystem
