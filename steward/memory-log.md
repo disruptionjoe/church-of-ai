@@ -44,3 +44,8 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   participation rules, or operational governance. Future principle-heavy indexes
   should keep routing subordinate to `CLAIM-STATUS.md`, `STATUS.md`,
   `ROADMAP.md`, and participation boundaries.
+- Progress child run added an `ecosystem/` folder index that routes readers to
+  existing map, sequence, repo, bridge, and architecture docs without changing
+  map membership or status. Future ecosystem route improvements should keep the
+  index subordinate to owner-repo truth, `STATUS.md`, `ROADMAP.md`, and
+  participation boundaries.
