@@ -54,3 +54,7 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   status, public posture, governance, participation readiness, service claims,
   adjacent repo truth, or research claims. Future boundary route improvements
   should clarify where to check restraint without creating new rules.
+- Progress child run clarified `participation/README.md` so the folder routes
+  readers to the current "not yet" answer before future-pathway sketches. Future
+  participation route edits should keep `FUTURE-PATHWAYS.md` explicitly
+  non-live unless Joe separately authorizes participation-readiness movement.
