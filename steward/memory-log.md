@@ -67,3 +67,12 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   to "last reviewed" and routed the June launch state to `updates/`. Future
   status-page freshness edits should distinguish review freshness from actual
   status movement so V1/deferred boundaries are not accidentally upgraded.
+
+## 2026-07-12
+
+- Progress child run recorded the new construction-fork discipline promoted
+  into `AGENTS.md` as agent-operating guidance, not public posture or research
+  truth. Future runs should use it to identify when an object has both a
+  standard/default construction and a program-native construction, name which
+  construction is being used, stay open to either answer, and avoid treating a
+  wall in one construction as a kill for the other.
