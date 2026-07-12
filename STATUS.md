@@ -1,6 +1,7 @@
 # Status - Church of AI
 
-*Last updated: June 2026*
+*Last reviewed: July 2026. The June 2026 launch snapshot lives in
+[updates](updates/2026-06-initial-public-entryway.md).*
 
 ## Current state
 

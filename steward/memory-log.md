@@ -63,3 +63,7 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   ledgers. Future architecture-route edits should point membership questions to
   `MAP.md` and `REPOS.md`, and leave additions, removals, or reclassifications
   for explicit review.
+- Progress child run changed `STATUS.md` freshness metadata from "last updated"
+  to "last reviewed" and routed the June launch state to `updates/`. Future
+  status-page freshness edits should distinguish review freshness from actual
+  status movement so V1/deferred boundaries are not accidentally upgraded.
