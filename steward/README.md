@@ -76,7 +76,7 @@ This repo owns its voice, framing, claim-status discipline, ecosystem map, entry
 
 Chronological memory lives at `steward/memory-log.md`. Append useful memory after sessions where this README is loaded.
 
-Lightweight upward-learning pointer: method/workflow-module learnings go to `CapacityOS/mailboxes/rccm/`; kernel-primitive learnings go to `CapacityOS/mailboxes/kernel/`.
+Lightweight upward-learning pointer: method/workflow-module learnings route to `system/mailboxes/rccm/`; kernel-primitive learnings route to `system/mailboxes/kernel/`.
 
 ## Automation Hooks
 

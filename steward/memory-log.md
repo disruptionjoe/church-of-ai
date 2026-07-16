@@ -76,3 +76,10 @@ here; it is not loaded by default. ASCII punctuation is a house rule here.
   standard/default construction and a program-native construction, name which
   construction is being used, stay open to either answer, and avoid treating a
   wall in one construction as a kill for the other.
+
+## 2026-07-16
+
+- Progress child run updated the steward upward-learning pointer from the
+  retired root mailbox bridge to the current `system/mailboxes/...` locations.
+  Future steward-routing hygiene should keep local repo pointers aligned to the
+  System mailbox paths without changing public posture or repo-owned truth.
