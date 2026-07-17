@@ -119,3 +119,13 @@ That is what this is testing.
 - [Updates](updates/README.md) - dated snapshots of public-entryway changes.
 - [Current status](STATUS.md) and [roadmap](ROADMAP.md) - what is live, what is
   deferred, and what has to be earned.
+
+## First-Class Lanes
+
+Load root `LANES.yaml` after this repository's governance and before selecting
+work. It is the owner-authoritative source for durable Lane definitions,
+admission, and normal control state; authoritative work remains at the paths it
+references. Numbered Lanes are Progress, lettered Lanes are Stewardship, and
+Discovery is Lane-less. A direct mount uses these local surfaces without
+CapacityOS. System observations, health, schedules, and execution history are
+not Lane truth.
