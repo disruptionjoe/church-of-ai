@@ -1,6 +1,6 @@
 # Ecosystem Map - Church of AI
 
-Four projects. Each independent. Each doing a different job.
+Six public-facing projects. Each independent. Each doing a different job.
 
 ---
 
@@ -40,6 +40,38 @@ That is the only endorsement this place is authorized to give.
 
 ---
 
+## CAI Systemic Failure
+
+**[github.com/disruptionjoe/cai-systemic-failure](https://github.com/disruptionjoe/cai-systemic-failure)**
+
+The public repository for making consequential systemic failure legible.
+
+Its job is source-preserving inquiry: evidence, prior art, competing models,
+answerable questions, and routing packets. It does not claim a topology record
+yet. No human research, field data, intervention, participation, or
+consequential proving is active.
+
+Church of AI would say: this is where systemic failure gets made inspectable
+before anyone pretends to solve it.
+
+---
+
+## CAI Mechanism Design
+
+**[github.com/disruptionjoe/cai-mechanism-design](https://github.com/disruptionjoe/cai-mechanism-design)**
+
+The public repository for otherwise-unowned or integrative mechanism discovery.
+
+Its job is broad solution search, explicit design, least-consequential proving
+plans, dispositions, and earned graduation proposals. No candidate has been
+admitted yet. No live incentive, deployment, participation, field work, or
+spin-out is active.
+
+Church of AI would say: this is where possible solutions go only after the
+question is clear enough to deserve design work.
+
+---
+
 ## Architecture of Legitimacy
 
 **[github.com/disruptionjoe/architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)**
@@ -69,5 +101,10 @@ It is noted here because it exists in the same intellectual neighborhood. It is 
 These projects are independent. They share a general intellectual orientation. They do not share governance, research authority, or decision-making.
 
 Church of AI is not the parent org. No repo here governs another.
+
+CAI Governance Operations is the private coordination owner for admitted CAI
+domain meaning and the active Church public-entryway relationship. It does not
+make Church of AI a parent repo, governance authority, research authority, or
+participation surface.
 
 The map is descriptive, not organizational.

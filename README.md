@@ -40,6 +40,7 @@ What is live now:
 - framing and voice
 - boundaries and claim-status discipline
 - ecosystem map and reading sequence
+- public CAI formation context, including the two public CAI repositories
 - links to the independent research repos
 
 What is not live yet:
@@ -48,6 +49,8 @@ What is not live yet:
 - public governance
 - reward systems
 - formal community structures
+- formal CAI membership or proving-ground relationships beyond the accepted
+  Church public-entryway relationship
 
 For the full state, read [STATUS.md](STATUS.md). For the prerequisites before
 participation opens, read [ROADMAP.md](ROADMAP.md).
@@ -67,6 +70,10 @@ No revelation without receipts.
 ---
 
 ## The ecosystem
+
+**[CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)** - The public repository for making consequential systemic failure legible through source-preserving topology, prior art, evidence, and answerable inquiries. It is formed; no topology record is asserted yet.
+
+**[CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)** - The public repository for otherwise-unowned or integrative mechanism discovery, bounded proving design, dispositions, and earned graduation proposals. It is formed; no candidate has been admitted yet.
 
 **[Time as Finality](https://github.com/disruptionjoe/time-as-finality)** - A proving ground for whether AI-assisted research can stay coherent under pressure. The first live lab.
 

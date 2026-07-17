@@ -16,6 +16,51 @@ Status: **V1 active**
 
 ---
 
+## CAI Governance Operations
+
+**Private coordination owner. Named here for context, not as a participation
+path.**
+
+What it does: maintain CAI domain constitution, phase gates, strategy,
+relationships, coordination decisions, and accepted public-meaning boundaries.
+
+What it does not do: make Church of AI a parent repo, open public governance,
+own another repository's claims, or activate participation.
+
+Status: **Founder-led formation**
+
+---
+
+## CAI Systemic Failure
+
+**[github.com/disruptionjoe/cai-systemic-failure](https://github.com/disruptionjoe/cai-systemic-failure)**
+
+What it does: make consequential systemic failure legible through
+source-preserving topology work, prior art, evidence, inquiries, and owner
+routing.
+
+What it does not do: assert a topology before evidence, collect human or field
+data, launch interventions, or claim proof of a solution.
+
+Status: **Formed. No topology record asserted yet.**
+
+---
+
+## CAI Mechanism Design
+
+**[github.com/disruptionjoe/cai-mechanism-design](https://github.com/disruptionjoe/cai-mechanism-design)**
+
+What it does: explore otherwise-unowned or integrative mechanisms through
+candidate records, alternative maps, least-consequential proving plans,
+dispositions, and earned graduation proposals.
+
+What it does not do: admit candidates without source inquiry and safety
+conditions, run live incentives, deploy interventions, or spin out projects.
+
+Status: **Formed. No candidate admitted yet.**
+
+---
+
 ## Time as Finality
 
 **[github.com/disruptionjoe/time-as-finality](https://github.com/disruptionjoe/time-as-finality)**
