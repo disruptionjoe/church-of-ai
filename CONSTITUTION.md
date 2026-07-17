@@ -34,7 +34,10 @@ The public entryway, voice, claim-status rules, and ecosystem map are live.
 CAI Governance Operations, CAI Systemic Failure, and CAI Mechanism Design now
 exist as sovereign repositories with different jobs. Their creation does not
 prove that the ecosystem is decentralized, legitimate, participatory, or
-effective. Their automation is connected-off.
+effective. CAI-directed repository automation is active only under the explicit
+live CapacityOS System grant and remains narrowed by owner governance, Lanes,
+and closed-action gates; relationships, mailbox presence, and signals cannot
+activate or broaden it.
 
 Contribution pathways, public governance, formal membership, reward systems,
 human or field research, live incentives, consequential interventions, and
