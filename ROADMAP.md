@@ -10,6 +10,8 @@ This roadmap names what is coming without pretending it is already here.
 - Boundaries and claim-status documentation
 - Principles documented
 - Open-source community service framing
+- Content-only distribution planning with posting, account setup, and
+  participation still gated
 
 Status: **In progress**
 
@@ -44,5 +46,6 @@ Status: **Deferred. Not currently being designed.**
 - Formal membership
 - Revenue model
 - Decentralization claims before decentralization is earned
+- Agent-run account creation, posting, scheduling, or external publishing
 
 These belong on the roadmap only when there is evidence they are appropriate, not as aspirational placeholders.

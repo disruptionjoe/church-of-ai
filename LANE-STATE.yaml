@@ -1,0 +1,20 @@
+schema_version: "1.0"
+owner_id: church-of-ai
+rule_ref: system/runtime/flows/derive-lane-health.md
+evaluated_at: "2026-07-18T12:37:26-05:00"
+run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
+lanes:
+  - lane_id: "1"
+    light: green
+    reason_code: content_distribution_packet_admitted
+    evidence_ref: "distribution/README.md; STATUS.md; ROADMAP.md"
+    summary: "Distribution planning supports the public entryway without opening participation."
+    evaluated_at: "2026-07-18T12:37:26-05:00"
+    run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
+  - lane_id: A
+    light: green
+    reason_code: mailbox_disposition_recorded
+    evidence_ref: "distribution/README.md"
+    summary: "Mailbox distribution proposal was dispositioned with external-action gates intact."
+    evaluated_at: "2026-07-18T12:37:26-05:00"
+    run_ref: RUN-20260718-489-repository-work-cycle-cai-hourly
