@@ -28,8 +28,9 @@ participation surface.
 - Boundaries documentation: [what this is](boundaries/WHAT-THIS-IS.md) and
   [what this is not](boundaries/WHAT-THIS-IS-NOT.md)
 - [Claim-status discipline](boundaries/CLAIM-STATUS.md)
-- [Content-only distribution planning](distribution/README.md), with no account
-  setup, posting, scheduling, or participation opened by the repo
+- [Content-only distribution planning](distribution/README.md), parked on the
+  Church of AI / Drafting Factory channel relationship, with no account setup,
+  posting, scheduling, or participation opened by the repo
 - [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)
   (formed; no topology record is asserted yet)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)

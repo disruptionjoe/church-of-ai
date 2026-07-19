@@ -26,7 +26,9 @@ ready, participatory, governed, or externally active than it is.
 - Rules for preserving claim status in future distribution content.
 - A setup boundary that keeps account setup, posting, scheduling, and external
   publication outside agent authority.
-- A clear wait state: Joe chooses channels only if production work should start.
+- A clear wait state: production is parked on the Church of AI / Drafting
+  Factory channel relationship, starting with the CoAI Substack channel
+  contract, before any channel inventory or ready-to-post production starts.
 
 ---
 
@@ -44,7 +46,8 @@ The packet is planning, not activation.
 
 ## The useful next move
 
-If production work becomes useful, the next decision is channel selection.
+The next dependency is the production relationship and channel contract, not
+channel selection by itself.
 
 Until then, the public repo can point readers to what already exists: the
 [ecosystem map](../ecosystem/MAP.md), the [reading sequence](../ecosystem/SEQUENCE.md),

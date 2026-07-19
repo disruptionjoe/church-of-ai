@@ -10,10 +10,14 @@ The 2026-07-18 distribution proposal is admitted as a planning packet, not an
 external-action authorization.
 
 Church of AI owns the public voice, channel fit, and claim-status discipline.
-Drafting Factory may produce ready-to-post inventory only after Joe chooses the
-channels and asks for production work. Joe performs account setup and posting.
+The next dependency is not channel choice by itself. Production is parked until
+the Church of AI / Drafting Factory channel relationship is accepted, starting
+with the CoAI Substack channel contract now being shaped outside this repo.
+Drafting Factory may produce ready-to-post inventory only after that
+relationship is accepted and Joe asks for production work. Joe performs account
+setup and posting.
 
-## Channel Fit
+## Candidate Channel Fit
 
 - Substack: primary owned-audience home for plain-language maps and dated
   updates.
@@ -24,6 +28,10 @@ channels and asks for production work. Joe performs account setup and posting.
 
 The efficient video pattern is one vertical clip that can be reused across the
 chosen short-video channels.
+
+These are candidate fits for future production planning. They are not a live
+publishing plan, channel launch, or request for Joe to choose channels before
+the production relationship is settled.
 
 ## Content Rules
 

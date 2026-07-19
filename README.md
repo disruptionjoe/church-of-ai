@@ -124,7 +124,7 @@ That is what this is testing.
   and how it is tracked.
 - [Participation](participation/README.md) - what remains not yet open.
 - [Distribution](distribution/README.md) - content-only channel planning with
-  account setup, posting, and participation still gated.
+  production parked until the Drafting Factory channel relationship is settled.
 - [Updates](updates/README.md) - dated snapshots of public-entryway changes.
 - [Current status](STATUS.md) and [roadmap](ROADMAP.md) - what is live, what is
   deferred, and what has to be earned.
