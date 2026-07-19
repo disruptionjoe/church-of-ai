@@ -123,6 +123,8 @@ That is what this is testing.
 - [Open-source community service](service/README.md) - what service means here
   and how it is tracked.
 - [Participation](participation/README.md) - what remains not yet open.
+- [Distribution](distribution/README.md) - content-only channel planning with
+  account setup, posting, and participation still gated.
 - [Updates](updates/README.md) - dated snapshots of public-entryway changes.
 - [Current status](STATUS.md) and [roadmap](ROADMAP.md) - what is live, what is
   deferred, and what has to be earned.

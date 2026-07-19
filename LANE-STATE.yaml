@@ -1,32 +1,91 @@
-schema_version: "1.0"
+schema_version: "2.0"
 owner_id: church-of-ai
+group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-evaluated_at: "2026-07-18T22:45:00-05:00"
-run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+updated_at: "2026-07-19T12:40:25-05:00"
+run_ref: RUN-20260719-536-repository-work-cycle-cai-hourly
+bottom_line: "Distribution planning is now discoverable from the front door; production still waits on Joe channel choice."
+decision_default: "Hold distribution production until Joe chooses channels."
+needs_joe: true
 lanes:
   - lane_id: "1"
     work_status: waiting_on_joe
-    last_movement: "Distribution planning packet admitted on 2026-07-18."
-    movement_ref: "distribution/README.md; commit e043335"
+    last_movement: "Distribution plan surfaced from front door and updates index."
+    movement_ref: "README.md; updates/README.md; updates/2026-07-content-distribution-planning.md"
     steering_attention: watch
     steering_prompt: "Choose distribution channels only if production work should start."
     steering_ref: "distribution/README.md"
     light: green
-    reason_code: content_distribution_packet_admitted
-    evidence_ref: "distribution/README.md; STATUS.md; ROADMAP.md"
-    summary: "Distribution plan is admitted; production waits on Joe channel choice."
-    evaluated_at: "2026-07-18T22:45:00-05:00"
-    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+    reason_code: distribution_navigation_refreshed
+    evidence_ref: "README.md; updates/README.md; distribution/README.md"
+    summary: "Distribution plan is easier to find; production remains gated."
+    evaluated_at: "2026-07-19T12:40:25-05:00"
+    run_ref: RUN-20260719-536-repository-work-cycle-cai-hourly
+    objective: "Maintain an honest public entryway and ecosystem map."
+    progress_delta: "Distribution planning was linked from the front door and recorded as a dated update."
+    trend_24h: up
+    confidence: high
+    recommendation: "Hold until Joe chooses channels."
+    findings:
+      - "Distribution planning existed but was not exposed in the README Start here list."
+      - "No mailbox item or open local run was present in this checkout."
+    options:
+      - id: A
+        label: "Hold production"
+        recommended: true
+        description: "Keep distribution planning visible without drafting channel inventory."
+      - id: B
+        label: "Choose channels"
+        recommended: false
+        description: "Joe selects channels before any content-production packet starts."
+      - id: C
+        label: "Defer distribution"
+        recommended: false
+        description: "Ignore distribution until the public entryway needs audience work."
+    decision_default: "Hold distribution production."
+    needs_joe: true
   - lane_id: A
     work_status: moving
-    last_movement: "Mailbox distribution proposal was dispositioned on 2026-07-18."
-    movement_ref: "distribution/README.md; commit e043335"
+    last_movement: "Cycle found no open mailbox item, no writer lock, and no local run collision."
+    movement_ref: "system/mailboxes/church-of-ai; git status; LANE-STATE.yaml"
     steering_attention: none
     steering_prompt: none
     steering_ref: "system/mailboxes/church-of-ai"
     light: green
-    reason_code: mailbox_disposition_recorded
-    evidence_ref: "distribution/README.md; system/mailboxes/church-of-ai"
-    summary: "No new unarchived mailbox proposals; disposition record remains current."
-    evaluated_at: "2026-07-18T22:45:00-05:00"
-    run_ref: RUN-20260718-516-repository-work-cycle-cai-hourly
+    reason_code: steward_cycle_clean
+    evidence_ref: "git status; system/mailboxes/church-of-ai; LANES.yaml"
+    summary: "Stewardship check is clean; no receiver work was available."
+    evaluated_at: "2026-07-19T12:40:25-05:00"
+    run_ref: RUN-20260719-536-repository-work-cycle-cai-hourly
+    objective: "Keep Church of AI viable and trustworthy through integrated stewardship."
+    progress_delta: "Verified clean checkout, no writer lock, even remote, no unarchived mailbox payload, and no RUN-534 collision."
+    trend_24h: up
+    confidence: high
+    recommendation: "Continue normal cycles."
+    findings:
+      - "Mailbox directory contained only README.md plus archive."
+      - "Search found no local RUN-20260719-534 or open-run artifact."
+      - "Emergency revocation list remains revision 1 with no entries."
+    options:
+      - id: A
+        label: "Continue normal cycles"
+        recommended: true
+        description: "Keep recurring checks bounded to mailbox, stewardship, discovery, and progress evidence."
+      - id: B
+        label: "Inspect history"
+        recommended: false
+        description: "Load steward memory only if future evidence is ambiguous."
+      - id: C
+        label: "Pause cycles"
+        recommended: false
+        description: "Stop only if Joe changes owner control state."
+    decision_default: "Continue normal cycles."
+    needs_joe: false
+    drift_verdict: clean
+    action_counts:
+      mail: 0
+      reconciled: 0
+      integrity_repairs: 0
+      seeds_routed: 0
+      escalations: 0
+    attention_pointer: "Distribution channel choice is the only visible Joe-facing decision."

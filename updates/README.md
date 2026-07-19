@@ -9,5 +9,7 @@ or the boundary docs.
 
 ## Notes
 
+- [Content distribution planning](2026-07-content-distribution-planning.md) -
+  the admitted V1 content-only distribution planning packet.
 - [Initial public entryway](2026-06-initial-public-entryway.md) - the first
   public-state snapshot for this repo.
