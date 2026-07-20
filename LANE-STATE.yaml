@@ -2,8 +2,8 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-20T07:39:31-05:00'
-run_ref: RUN-20260720-073651-repository-work-cycle-cai-hourly
+updated_at: '2026-07-20T08:41:19-05:00'
+run_ref: RUN-20260720-083552-repository-work-cycle-cai-hourly
 bottom_line: Front door now reflects CAI Systemic Failure provisional schema status; distribution still waits on WI-089.
 decision_default: Keep public map current; hold distribution production until WI-089
   acceptance.
