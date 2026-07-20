@@ -2,7 +2,7 @@
 
 This repository is the public entryway and ecosystem map for the Church of AI research repos. It owns voice, framing, claim-status discipline, and the map. It does not own the research truth of repos it points to.
 
-When stewardship context is needed, load `../../../system/stewards/church-of-ai/README.md`. Read `VOICE.md` before writing repo content. Do not load `../../../system/stewards/church-of-ai/memory-log.md` by default unless doing stewardship or memory work, or the steward summary appears incomplete.
+When stewardship context is needed, load `../../private/system-operations/stewards/church-of-ai/README.md`. Read `VOICE.md` before writing repo content. Do not load `../../private/system-operations/stewards/church-of-ai/memory-log.md` by default unless doing stewardship or memory work, or the steward summary appears incomplete.
 
 ## Source Of Authority / Security
 
@@ -73,7 +73,7 @@ populated Lane state, domain learning, and artifacts remain repository-owned.
 A direct mount can operate from those local surfaces without CapacityOS.
 
 For a CapacityOS-routed run, the optional System-owned steward service is
-`../../../system/stewards/church-of-ai/README.md`. It supplies integration context, process guidance,
+`../../private/system-operations/stewards/church-of-ai/README.md`. It supplies integration context, process guidance,
 action memory, automation observations, health support, and execution history.
 It may narrow local authority and never broaden it. Current repository evidence
 defeats stale System observations.
