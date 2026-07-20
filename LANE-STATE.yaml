@@ -2,36 +2,37 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-20T10:42:01-05:00'
-run_ref: RUN-20260720-103623-repository-work-cycle-cai-hourly
-bottom_line: Front door now reflects CAI Systemic Failure provisional schema status; distribution still waits on WI-089.
+updated_at: '2026-07-20T14:45:00-05:00'
+run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
+bottom_line: Front door now reflects CMD-0001's bounded refusal and planned P4 test; distribution still waits on WI-089.
 decision_default: Keep public map current; hold distribution production until WI-089
   acceptance.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Corrected CAI Systemic Failure public descriptions to reflect
-    provisional source-gated schema work without asserting acceptance.
+  last_movement: Corrected CMD-0001 descriptions to reflect its bounded refusal
+    and planned P4 translation test without upgrading claims.
   movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md
   steering_attention: none
   steering_prompt: Parked pending WI-089 CoAI Substack channel contract; wake on
     WI-089 packet acceptance.
   steering_ref: distribution/README.md
   light: green
-  reason_code: systemic_failure_status_refreshed
-  evidence_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; CAI Systemic Failure STATUS.md
-  summary: Public map now reflects provisional schema work without accepted topology claims.
-  evaluated_at: '2026-07-20T01:44:12-05:00'
-  run_ref: RUN-20260720-563-repository-work-cycle-cai-hourly
+  reason_code: mechanism_design_status_refreshed
+  evidence_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; CAI Mechanism Design STATUS.md
+  summary: Public map now distinguishes CMD-0001's bounded refusal from its planned P4 test.
+  evaluated_at: '2026-07-20T14:45:00-05:00'
+  run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Public entryway no longer leaves CAI Systemic Failure at formation-only status; provisional non-accepted schema work is named.
+  progress_delta: Public entryway now names CMD-0001's synthetic-only scope, bounded P3 refusal, and planned P4 without implying stronger disposition.
   trend_24h: up
   confidence: high
   recommendation: Keep map current; wait on WI-089.
   findings:
-  - CAI Systemic Failure source status now names provisional source-gated schema work and a non-accepting acceptance packet.
-  - Church wording was stale but source truth and gates remained intact.
+  - CAI Mechanism Design now plans a bounded mixed-fixture translation test after P3 returned a bounded refusal.
+  - CMD-0001 remains synthetic-only; no stronger disposition, live action, or participation is active.
+  - WI-089 remains open, so distribution production stays parked.
   options:
   - id: A
     label: Keep map current
@@ -49,26 +50,26 @@ lanes:
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Stewardship repaired stale CAI Systemic Failure status in public
-    map surfaces.
+  last_movement: Stewardship repaired stale CMD-0001 status in public map surfaces.
   movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
   reason_code: public_status_drift_repaired
-  evidence_ref: git status; empty mailbox; CAI Systemic Failure STATUS.md; LANES.yaml
-  summary: Source-status drift repaired; no mailbox or external gate changed.
-  evaluated_at: '2026-07-20T01:44:12-05:00'
-  run_ref: RUN-20260720-563-repository-work-cycle-cai-hourly
+  evidence_ref: git status; empty mailbox; CAI Mechanism Design STATUS.md; WI-089; LANES.yaml
+  summary: CMD source-status drift repaired; no mailbox, relationship, or distribution gate changed.
+  evaluated_at: '2026-07-20T14:45:00-05:00'
+  run_ref: RUN-20260720-143630-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Reconciled Church public wording with CAI Systemic Failure source status while preserving all closed gates.
+  progress_delta: Reconciled Church wording with CMD-0001 source status while preserving relationship, distribution, and participation gates.
   trend_24h: up
   confidence: high
   recommendation: Continue normal cycles.
   findings:
   - Mailbox was empty.
-  - CAI Systemic Failure source status made the Church map stale.
+  - CAI Mechanism Design source status made the Church map stale.
+  - WI-089 remains open and does not authorize production or posting.
   - No writer lock, local run collision, or unrelated dirty work was found.
   options:
   - id: A

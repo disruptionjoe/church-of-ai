@@ -57,7 +57,9 @@ dispositions, and earned graduation proposals.
 What it does not do: graduate or transfer a candidate without earned evidence,
 run live incentives, deploy interventions, or spin out projects.
 
-Status: **Formed. CMD-0001 admitted and deferred after bounded proving tests.**
+Status: **Formed. CMD-0001 is a synthetic-only candidate; P3 returned a bounded
+source-fixture refusal, and P4 is only a planned mixed-fixture translation test.
+No stronger disposition is active.**
 
 ---
 

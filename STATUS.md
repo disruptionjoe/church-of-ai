@@ -35,7 +35,9 @@ participation surface.
   (formed; provisional source-gated schema candidate only; no accepted schema or
   topology ontology)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)
-  (formed; `CMD-0001` is admitted and deferred after bounded proving tests)
+  (formed; `CMD-0001` is a synthetic-only candidate; P3 returned a bounded
+  source-fixture refusal, and P4 is only a planned mixed-fixture translation
+  test; no stronger disposition or live action is active)
 - [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
   (active, independent)
 
