@@ -63,9 +63,9 @@ before anyone pretends to solve it.
 The public repository for otherwise-unowned or integrative mechanism discovery.
 
 Its job is broad solution search, explicit design, least-consequential proving
-plans, dispositions, and earned graduation proposals. No candidate has been
-admitted yet. No live incentive, deployment, participation, field work, or
-spin-out is active.
+plans, dispositions, and earned graduation proposals. `CMD-0001` is admitted
+and deferred after bounded synthetic and source-fixture tests. No live
+incentive, deployment, participation, field work, or spin-out is active.
 
 Church of AI would say: this is where possible solutions go only after the
 question is clear enough to deserve design work.

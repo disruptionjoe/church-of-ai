@@ -34,7 +34,7 @@ participation surface.
 - [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)
   (formed; no topology record is asserted yet)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)
-  (formed; no candidate has been admitted yet)
+  (formed; `CMD-0001` is admitted and deferred after bounded proving tests)
 - [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
   (active, independent)
 

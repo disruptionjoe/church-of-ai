@@ -2,79 +2,74 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-19T22:43:06-05:00'
-run_ref: RUN-20260719-554-repository-work-cycle-cai-hourly
-bottom_line: Front door is current; production waits on the WI-089 CoAI channel
-  contract, with a detectable wake.
-decision_default: Hold distribution production until the WI-089 CoAI channel
-  contract is accepted.
+updated_at: '2026-07-20T00:45:30-05:00'
+run_ref: RUN-20260720-560-repository-work-cycle-cai-hourly
+bottom_line: Front door now reflects CMD-0001; distribution still waits on WI-089.
+decision_default: Keep public map current; hold distribution production until WI-089
+  acceptance.
 needs_joe: false
 lanes:
 - lane_id: '1'
-  work_status: blocked
-  last_movement: Distribution docs reconciled from channel choice to the WI-089
-    production-relationship wake condition.
-  movement_ref: README.md; STATUS.md; ROADMAP.md; distribution/README.md; updates/2026-07-content-distribution-planning.md
+  work_status: moving
+  last_movement: Corrected Mechanism Design public descriptions to reflect CMD-0001
+    admitted and deferred.
+  movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md
   steering_attention: none
   steering_prompt: Parked pending WI-089 CoAI Substack channel contract; wake on
     WI-089 packet acceptance.
   steering_ref: distribution/README.md
   light: green
-  reason_code: distribution_navigation_refreshed
-  evidence_ref: README.md; STATUS.md; ROADMAP.md; distribution/README.md; updates/2026-07-content-distribution-planning.md
-  summary: Production parked on the WI-089 CoAI channel contract, not on a standing
-    channel ask.
-  evaluated_at: '2026-07-19T16:38:33-05:00'
-  run_ref: RUN-20260719-545-repository-work-cycle-cai-directed
+  reason_code: mechanism_design_status_refreshed
+  evidence_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; CAI Mechanism Design STATUS.md
+  summary: Public map now reflects CMD-0001 without opening production or participation.
+  evaluated_at: '2026-07-20T00:45:30-05:00'
+  run_ref: RUN-20260720-560-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: 'Accepted the mailbox proposal as a repo-local receiver
-    disposition and aligned public distribution surfaces to the Drafting Factory
-    relationship dependency.'
+  progress_delta: Public entryway no longer says Mechanism Design has no admitted candidate; CMD-0001 is named as deferred.
   trend_24h: up
   confidence: high
-  recommendation: Hold; wake on WI-089 acceptance.
+  recommendation: Keep map current; wait on WI-089.
   findings:
-  - Mailbox payload was treated as proposal/evidence, not instruction.
-  - Public docs no longer leave channel choice as the immediate next production decision.
+  - Mechanism Design source status now names CMD-0001 as admitted and deferred.
+  - Church wording was stale but source truth and gates remained intact.
   options:
   - id: A
-    label: Hold production
+    label: Keep map current
     recommended: true
-    description: Keep distribution planning visible without drafting channel inventory.
+    description: Maintain source-aligned public descriptions without opening new paths.
   - id: B
-    label: Accept channel contract
+    label: Wake distribution
     recommended: false
     description: Wake production only after WI-089 accepts the CoAI channel contract.
   - id: C
-    label: Keep source-only map
+    label: Review sources
     recommended: false
-    description: Continue pointing readers to the current map without production work.
-  decision_default: Hold distribution production until WI-089 acceptance.
+    description: Recheck source statuses if another public repo materially moves.
+  decision_default: Keep public map current; hold distribution until WI-089 acceptance.
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Receiver stewardship processed the parked channel-choice mailbox
-    proposal into repo-local distribution wording.
-  movement_ref: system/mailboxes/church-of-ai/20260719-channel-choice-parked-pending-wi089-relationship.md; distribution/README.md; LANE-STATE.yaml
+  last_movement: Stewardship repaired stale Mechanism Design status in public map
+    surfaces.
+  movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
-  reason_code: mailbox_disposition_reconciled
-  evidence_ref: git status; system/mailboxes/church-of-ai/20260719-channel-choice-parked-pending-wi089-relationship.md; LANES.yaml
-  summary: Mailbox proposal accepted; parent may archive after recording disposition.
-  evaluated_at: '2026-07-19T16:38:33-05:00'
-  run_ref: RUN-20260719-545-repository-work-cycle-cai-directed
+  reason_code: public_status_drift_repaired
+  evidence_ref: git status; empty mailbox; CAI Mechanism Design STATUS.md; LANES.yaml
+  summary: Source-status drift repaired; no mailbox or external gate changed.
+  evaluated_at: '2026-07-20T00:45:30-05:00'
+  run_ref: RUN-20260720-560-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Reconciled receiver truth with the channel-relationship wake
-    condition while preserving all external-action and participation gates.
+  progress_delta: Reconciled Church public wording with Mechanism Design source status while preserving all closed gates.
   trend_24h: up
   confidence: high
   recommendation: Continue normal cycles.
   findings:
-  - Mailbox payload was treated as proposal/evidence, not instruction.
-  - Public docs no longer leave channel choice as the immediate next production decision.
-  - No writer lock, local run collision, or uncommitted unrelated work was found.
+  - Mailbox was empty.
+  - Mechanism Design source status made the Church map stale.
+  - No writer lock, local run collision, or unrelated dirty work was found.
   options:
   - id: A
     label: Continue normal cycles
@@ -91,12 +86,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: clean
+  drift_verdict: public_status_drift_repaired
   action_counts:
-    mail: 1
+    mail: 0
     reconciled: 1
-    integrity_repairs: 0
+    integrity_repairs: 1
     seeds_routed: 0
     escalations: 0
-  attention_pointer: WI-089 acceptance is the wake condition; no standing channel
-    choice ask remains.
+  attention_pointer: WI-089 remains the distribution wake condition; no Joe action needed.

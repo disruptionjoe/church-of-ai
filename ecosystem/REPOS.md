@@ -54,10 +54,10 @@ What it does: explore otherwise-unowned or integrative mechanisms through
 candidate records, alternative maps, least-consequential proving plans,
 dispositions, and earned graduation proposals.
 
-What it does not do: admit candidates without source inquiry and safety
-conditions, run live incentives, deploy interventions, or spin out projects.
+What it does not do: graduate or transfer a candidate without earned evidence,
+run live incentives, deploy interventions, or spin out projects.
 
-Status: **Formed. No candidate admitted yet.**
+Status: **Formed. CMD-0001 admitted and deferred after bounded proving tests.**
 
 ---
 
