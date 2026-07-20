@@ -71,7 +71,7 @@ No revelation without receipts.
 
 ## The ecosystem
 
-**[CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)** - The public repository for making consequential systemic failure legible through source-preserving topology, prior art, evidence, and answerable inquiries. It is formed; no topology record is asserted yet.
+**[CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)** - The public repository for making consequential systemic failure legible through source-preserving topology, prior art, evidence, and answerable inquiries. It is formed; its first schema work remains provisional and non-accepted, and no topology ontology is asserted yet.
 
 **[CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)** - The public repository for otherwise-unowned or integrative mechanism discovery, bounded proving design, dispositions, and earned graduation proposals. It is formed; `CMD-0001` is admitted and deferred after bounded proving tests.
 

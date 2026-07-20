@@ -48,8 +48,10 @@ The public repository for making consequential systemic failure legible.
 
 Its job is source-preserving inquiry: evidence, prior art, competing models,
 answerable questions, and routing packets. It does not claim a topology record
-yet. No human research, field data, intervention, participation, or
-consequential proving is active.
+yet. Its first schema work is a provisional local record screen with a
+non-accepting acceptance packet, not an accepted schema or ontology. No human
+research, field data, intervention, participation, or consequential proving is
+active.
 
 Church of AI would say: this is where systemic failure gets made inspectable
 before anyone pretends to solve it.

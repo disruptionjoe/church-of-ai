@@ -42,7 +42,7 @@ routing.
 What it does not do: assert a topology before evidence, collect human or field
 data, launch interventions, or claim proof of a solution.
 
-Status: **Formed. No topology record asserted yet.**
+Status: **Formed. Provisional source-gated schema candidate only; no accepted schema or topology ontology.**
 
 ---
 

@@ -32,7 +32,8 @@ participation surface.
   Church of AI / Drafting Factory channel relationship, with no account setup,
   posting, scheduling, or participation opened by the repo
 - [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)
-  (formed; no topology record is asserted yet)
+  (formed; provisional source-gated schema candidate only; no accepted schema or
+  topology ontology)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)
   (formed; `CMD-0001` is admitted and deferred after bounded proving tests)
 - [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
