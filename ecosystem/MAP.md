@@ -67,9 +67,9 @@ The public repository for otherwise-unowned or integrative mechanism discovery.
 Its job is broad solution search, explicit design, least-consequential proving
 plans, dispositions, and earned graduation proposals. `CMD-0001` is admitted
 as a synthetic-only candidate. P3 returned a bounded source-fixture refusal,
-and P4 is only a planned mixed-fixture translation test. No stronger
-disposition, live incentive, deployment, participation, field work, or spin-out
-is active.
+and P4 returned revision required because mixed-fit status and domain absorbers
+can still be hidden in prose. No stronger disposition, live incentive,
+deployment, participation, field work, or spin-out is active.
 
 Church of AI would say: this is where possible solutions go only after the
 question is clear enough to deserve design work.

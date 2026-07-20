@@ -73,7 +73,7 @@ No revelation without receipts.
 
 **[CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)** - The public repository for making consequential systemic failure legible through source-preserving topology, prior art, evidence, and answerable inquiries. It is formed; its first schema work remains provisional and non-accepted, and no topology ontology is asserted yet.
 
-**[CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)** - The public repository for otherwise-unowned or integrative mechanism discovery, bounded proving design, dispositions, and earned graduation proposals. It is formed; `CMD-0001` is a synthetic-only candidate. P3 returned a bounded source-fixture refusal, and P4 is only a planned mixed-fixture translation test. No stronger disposition or live action is active.
+**[CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)** - The public repository for otherwise-unowned or integrative mechanism discovery, bounded proving design, dispositions, and earned graduation proposals. It is formed; `CMD-0001` is a synthetic-only candidate. P3 returned a bounded source-fixture refusal, and P4 returned revision required because mixed-fit status and domain absorbers can still be hidden in prose. No stronger disposition or live action is active.
 
 **[Time as Finality](https://github.com/disruptionjoe/time-as-finality)** - A proving ground for whether AI-assisted research can stay coherent under pressure. The first live lab.
 

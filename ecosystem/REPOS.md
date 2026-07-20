@@ -58,8 +58,9 @@ What it does not do: graduate or transfer a candidate without earned evidence,
 run live incentives, deploy interventions, or spin out projects.
 
 Status: **Formed. CMD-0001 is a synthetic-only candidate; P3 returned a bounded
-source-fixture refusal, and P4 is only a planned mixed-fixture translation test.
-No stronger disposition is active.**
+source-fixture refusal, and P4 returned revision required because mixed-fit
+status and domain absorbers remain prose-only. No stronger disposition is
+active.**
 
 ---
 
