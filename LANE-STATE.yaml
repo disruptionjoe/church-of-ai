@@ -2,75 +2,73 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-20T19:42:00-05:00'
-run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
-bottom_line: Front door now reflects CMD-0001's bounded P4 rerun pass and defer; distribution still waits on WI-089.
-decision_default: Keep public map current; hold distribution production until WI-089
-  acceptance.
+updated_at: '2026-07-20T21:38:36-05:00'
+run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
+bottom_line: The accepted Drafting Factory interface now activates internal Church content production while all external release remains Joe-only.
+decision_default: Maintain truthful internal production inputs; do not create accounts, schedule, post, or imply participation.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Corrected CMD-0001 descriptions to reflect its bounded P4 rerun
-    pass and defer without upgrading claims.
-  movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md
+  last_movement: Activated the accepted Church and Drafting Factory internal production interface and reconciled the public entryway.
+  movement_ref: distribution/README.md; distribution/drafting-factory-interface.md; README.md; STATUS.md; ROADMAP.md
   steering_attention: none
-  steering_prompt: Parked pending WI-089 CoAI Substack channel contract; wake on
-    WI-089 packet acceptance.
-  steering_ref: distribution/README.md
+  steering_prompt: Keep production local and source-aligned; Joe alone creates accounts, schedules, posts, or publishes.
+  steering_ref: distribution/drafting-factory-interface.md
   light: green
-  reason_code: mechanism_design_p4_rerun_status_refreshed
-  evidence_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; CAI Mechanism Design STATUS.md
-  summary: Public map now records the exact wrapper repair, bounded rerun pass, and defer.
-  evaluated_at: '2026-07-20T19:42:00-05:00'
-  run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
+  reason_code: drafting_factory_internal_production_interface_active
+  evidence_ref: distribution/drafting-factory-interface.md; distribution/README.md; Drafting Factory SOURCE-OWNER-INTERFACES.md
+  summary: Local candidate and ready-package production is active under a reciprocal source-owner interface; external release is not.
+  evaluated_at: '2026-07-20T21:38:36-05:00'
+  run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Public entryway now names CMD-0001's synthetic-only scope, bounded P3 refusal, and bounded P4 rerun pass plus defer without implying graduation.
+  progress_delta: Replaced the parked production state with an accepted internal interface and preserved the Joe-only external-action boundary.
+  scope_position: Internal Substack and Church short-video production may proceed; accounts, posting, scheduling, participation, and publication remain closed.
   trend_24h: up
   confidence: high
-  recommendation: Keep map current; wait on WI-089.
+  recommendation: Use the accepted interface for internal production only.
   findings:
-  - CAI Mechanism Design repaired the exact prose-only fields and the same frozen P4 fixture earned a bounded translation pass.
-  - CMD-0001 remains synthetic-only and deferred; no graduation, consequential proving, live action, or participation is active.
-  - WI-089 remains open, so distribution production stays parked.
+  - Church retains voice, claim-status, participation-boundary, and distribution authority.
+  - Drafting Factory retains production backlog, prioritization, drafting, ready inventory, and local learning.
+  - WI-089 remains open for broader lifecycle hardening but no longer blocks this accepted Church production interface.
   options:
   - id: A
-    label: Keep map current
+    label: Use interface
     recommended: true
-    description: Maintain source-aligned public descriptions without opening new paths.
+    description: Maintain source-aligned internal inventory and ready packages without external release.
   - id: B
-    label: Wake distribution
-    recommended: false
-    description: Wake production only after WI-089 accepts the CoAI channel contract.
-  - id: C
     label: Review sources
     recommended: false
-    description: Recheck source statuses if another public repo materially moves.
-  decision_default: Keep public map current; hold distribution until WI-089 acceptance.
+    description: Recheck source-owner status before using a research example or changed public claim.
+  - id: C
+    label: Hold external
+    recommended: false
+    description: Preserve Joe-only account creation, scheduling, posting, and publication.
+  decision_default: Use the accepted interface for internal production; keep external action Joe-only.
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Stewardship repaired the newly stale CMD-0001 P4 rerun status in public map surfaces.
-  movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; LANE-STATE.yaml
+  last_movement: Reconciled stale parked-production language after the independent interface activation.
+  movement_ref: README.md; STATUS.md; ROADMAP.md; updates/2026-07-content-distribution-planning.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
-  reason_code: public_p4_rerun_status_drift_repaired
-  evidence_ref: git status; empty mailbox; CAI Mechanism Design STATUS.md; WI-089; LANES.yaml
-  summary: CMD P4 rerun source-status drift repaired; no mailbox, relationship, or distribution gate changed.
-  evaluated_at: '2026-07-20T19:42:00-05:00'
-  run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
+  reason_code: production_activation_state_reconciled
+  evidence_ref: commit 148a9775f4f6; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md; empty mailbox; LANES.yaml
+  summary: Church status surfaces now match the accepted reciprocal production interface without broadening external authority.
+  evaluated_at: '2026-07-20T21:38:36-05:00'
+  run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Reconciled Church wording with CMD-0001's bounded pass and defer while preserving relationship, distribution, participation, and external-action gates.
+  progress_delta: Removed four stale parked-production statements and clarified that internal production activation is not external publication authorization.
   trend_24h: up
   confidence: high
   recommendation: Continue normal cycles.
   findings:
   - Mailbox was empty.
-  - CAI Mechanism Design's P4 rerun source status made the Church map stale.
-  - WI-089 remains open and does not authorize production or posting.
-  - No writer lock, local run collision, or unrelated dirty work was found.
+  - Drafting Factory independently records the Church Substack and short-video interfaces as active.
+  - WI-089 remains open but is not the authority for the accepted bilateral interface.
+  - Participation and every external release action remain gated.
   options:
   - id: A
     label: Continue normal cycles
@@ -87,11 +85,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: public_status_drift_repaired
+  drift_verdict: production_activation_status_drift_repaired
   action_counts:
     mail: 0
-    reconciled: 1
-    integrity_repairs: 1
+    reconciled: 5
+    integrity_repairs: 5
     seeds_routed: 0
     escalations: 0
-  attention_pointer: WI-089 remains the distribution wake condition; no Joe action needed.
+  attention_pointer: Internal production may proceed; Joe alone controls accounts and external release.

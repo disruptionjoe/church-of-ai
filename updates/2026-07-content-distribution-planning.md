@@ -40,7 +40,8 @@ No participation pathway is open.
 No governance process is operational.
 No membership, rewards, DAO, token, or proving-ground invitation is implied.
 
-The packet is planning, not activation.
+The interface activates internal production, not account creation, scheduling,
+posting, or external publication.
 
 ---
 

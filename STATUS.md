@@ -28,9 +28,10 @@ participation surface.
 - Boundaries documentation: [what this is](boundaries/WHAT-THIS-IS.md) and
   [what this is not](boundaries/WHAT-THIS-IS-NOT.md)
 - [Claim-status discipline](boundaries/CLAIM-STATUS.md)
-- [Content-only distribution planning](distribution/README.md), parked on the
-  Church of AI / Drafting Factory channel relationship, with no account setup,
-  posting, scheduling, or participation opened by the repo
+- [Content-only distribution production](distribution/README.md) through the
+  accepted Church of AI / Drafting Factory interface, with local candidate and
+  ready-package work active while account setup, posting, scheduling, and
+  participation remain closed to agents
 - [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)
   (formed; provisional source-gated schema candidate only; no accepted schema or
   topology ontology)

@@ -10,8 +10,8 @@ This roadmap names what is coming without pretending it is already here.
 - Boundaries and claim-status documentation
 - Principles documented
 - Open-source community service framing
-- Content-only distribution planning parked on the Church of AI / Drafting
-  Factory channel relationship, with posting, account setup, and participation
+- Content-only internal production active through the accepted Church of AI /
+  Drafting Factory interface, with posting, account setup, and participation
   still gated
 
 Status: **In progress**
