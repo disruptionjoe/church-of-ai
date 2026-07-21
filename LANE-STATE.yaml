@@ -2,8 +2,8 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-21T11:36:51-05:00'
-run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
+updated_at: '2026-07-21T13:35:23-05:00'
+run_ref: RUN-20260721-133523-repository-work-cycle-cai-hourly
 bottom_line: Governance confirmed a Factory readiness mismatch; hold all three drafts outside Church-ready inventory pending correction and recheck.
 decision_default: Await a committed Factory correction receipt, then recheck against Church source truth; keep external release Joe-only.
 needs_joe: false
