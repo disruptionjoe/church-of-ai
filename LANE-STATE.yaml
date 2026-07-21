@@ -2,35 +2,36 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-21T00:42:54-05:00'
-run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
-bottom_line: The accepted Drafting Factory interface activates internal Church content production, and the public distribution update now states that consistently while all external release remains Joe-only.
-decision_default: Maintain truthful internal production inputs; do not create accounts, schedule, post, or imply participation.
+updated_at: '2026-07-21T10:40:38-05:00'
+run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
+bottom_line: Three fresh Factory drafts received Church source-owner review; two require bounded corrections and one remains an unadmitted narrative candidate before ready inventory.
+decision_default: Return the correction receipt to Drafting Factory; keep participation closed and external release Joe-only.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Removed the final stale public statement that treated the accepted Church and Drafting Factory interface as an unmet dependency.
-  movement_ref: updates/2026-07-content-distribution-planning.md
+  last_movement: Reviewed three committed Factory drafts against Church voice, exact claim statuses, participation boundaries, and current source truth.
+  movement_ref: distribution/source-owner-review-2026-07-21.md
   steering_attention: none
   steering_prompt: Keep production local and source-aligned; Joe alone creates accounts, schedules, posts, or publishes.
   steering_ref: distribution/drafting-factory-interface.md
   light: green
-  reason_code: public_distribution_status_consistency_repaired
-  evidence_ref: updates/2026-07-content-distribution-planning.md; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md
-  summary: The public distribution update now consistently describes the reciprocal source-owner interface as active for internal production while external release remains Joe-only.
-  evaluated_at: '2026-07-21T00:42:54-05:00'
-  run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
+  reason_code: factory_drafts_source_owner_corrections_recorded
+  evidence_ref: distribution/source-owner-review-2026-07-21.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; distribution/drafting-factory-interface.md; Drafting Factory commits 78cd1cd, 1c3340f, 9b92b50
+  summary: The receipts and participation drafts need bounded corrections, while the human-alignment framing remains outside ready inventory pending Church-owned admission.
+  evaluated_at: '2026-07-21T10:40:38-05:00'
+  run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Corrected the last contradictory dependency statement without broadening the accepted internal-production or Joe-only external-action boundary.
-  scope_position: Internal Substack and Church short-video production may proceed; accounts, posting, scheduling, participation, and publication remain closed.
+  progress_delta: Exercised the active source-owner correction interface before internal drafts entered ready inventory.
+  scope_position: Internal production remains active, but these three drafts are not Church-ready; accounts, posting, scheduling, participation, and publication remain closed.
   trend_24h: up
   confidence: high
-  recommendation: Use the accepted interface for internal production only.
+  recommendation: Return the bounded revisions and recheck corrected drafts against current Church source truth.
   findings:
-  - Church retains voice, claim-status, participation-boundary, and distribution authority.
-  - Drafting Factory retains production backlog, prioritization, drafting, ready inventory, and local learning.
-  - WI-089 remains open for broader lifecycle hardening but no longer blocks this accepted Church production interface.
+  - The receipts draft must use the exact four governed claim-status labels and treat correction as a process, not a merged status.
+  - The participation draft must not redefine attention as an open participation pathway.
+  - The human-alignment draft introduces a new narrative framing not admitted by current Church source surfaces.
+  - Fresh GU correction a0a1401 is not repeated in Church public surfaces or these drafts, so no public technical correction is due.
   options:
   - id: A
     label: Use interface
@@ -48,26 +49,26 @@ lanes:
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Reconciled the remaining stale dependency language in the July distribution update.
-  movement_ref: updates/2026-07-content-distribution-planning.md; LANE-STATE.yaml
+  last_movement: Recorded source-owner correction dispositions for three fresh committed Factory drafts.
+  movement_ref: distribution/source-owner-review-2026-07-21.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
-  reason_code: residual_production_dependency_status_drift_repaired
-  evidence_ref: updates/2026-07-content-distribution-planning.md; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md; empty mailbox; LANES.yaml
-  summary: The final contradictory public dependency statement now matches the accepted reciprocal production interface without broadening external authority.
-  evaluated_at: '2026-07-21T00:42:54-05:00'
-  run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
+  reason_code: factory_source_owner_review_completed
+  evidence_ref: distribution/source-owner-review-2026-07-21.md; distribution/drafting-factory-interface.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; LANES.yaml
+  summary: Church correction authority was exercised without editing Factory files or broadening external authority.
+  evaluated_at: '2026-07-21T10:40:38-05:00'
+  run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Removed one residual stale dependency statement and preserved the distinction between internal production and external publication.
+  progress_delta: Preserved exact claim-status vocabulary, closed participation, and source admission boundaries before ready-inventory promotion.
   trend_24h: up
   confidence: high
-  recommendation: Continue normal cycles.
+  recommendation: Route the correction receipt to Factory and recheck only after revised committed drafts appear.
   findings:
-  - Mailbox was empty.
-  - Drafting Factory independently records the Church Substack and short-video interfaces as active.
-  - WI-089 remains open but is not the authority for the accepted bilateral interface.
+  - Factory's three reviewed drafts are internal and committed; none is externally published.
+  - Two drafts are correction-required and one is held outside ready inventory pending source admission.
+  - No current Church surface inherited GU's corrected technical overclaim.
   - Participation and every external release action remain gated.
   options:
   - id: A
@@ -85,11 +86,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: residual_production_dependency_status_drift_repaired
+  drift_verdict: factory_source_owner_corrections_recorded
   action_counts:
     mail: 0
-    reconciled: 1
-    integrity_repairs: 1
+    reconciled: 3
+    integrity_repairs: 0
     seeds_routed: 0
     escalations: 0
-  attention_pointer: Internal production may proceed; Joe alone controls accounts and external release.
+  attention_pointer: Factory should revise the two bounded drafts and hold the unadmitted narrative candidate; Joe alone controls external release.
