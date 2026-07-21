@@ -2,36 +2,35 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-21T10:40:38-05:00'
-run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
-bottom_line: Three fresh Factory drafts received Church source-owner review; two require bounded corrections and one remains an unadmitted narrative candidate before ready inventory.
-decision_default: Return the correction receipt to Drafting Factory; keep participation closed and external release Joe-only.
+updated_at: '2026-07-21T11:36:51-05:00'
+run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
+bottom_line: Governance confirmed a Factory readiness mismatch; hold all three drafts outside Church-ready inventory pending correction and recheck.
+decision_default: Await a committed Factory correction receipt, then recheck against Church source truth; keep external release Joe-only.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Reviewed three committed Factory drafts against Church voice, exact claim statuses, participation boundaries, and current source truth.
-  movement_ref: distribution/source-owner-review-2026-07-21.md
-  steering_attention: none
-  steering_prompt: Keep production local and source-aligned; Joe alone creates accounts, schedules, posts, or publishes.
+  last_movement: Reconciled the governance fail-closed finding with Church's existing source-owner dispositions.
+  movement_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781
+  steering_attention: watch
+  steering_prompt: Recheck only after Factory returns corrected committed drafts; do not admit held content by inference.
   steering_ref: distribution/drafting-factory-interface.md
-  light: green
-  reason_code: factory_drafts_source_owner_corrections_recorded
-  evidence_ref: distribution/source-owner-review-2026-07-21.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; distribution/drafting-factory-interface.md; Drafting Factory commits 78cd1cd, 1c3340f, 9b92b50
-  summary: The receipts and participation drafts need bounded corrections, while the human-alignment framing remains outside ready inventory pending Church-owned admission.
-  evaluated_at: '2026-07-21T10:40:38-05:00'
-  run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
+  light: yellow
+  reason_code: factory_readiness_mismatch_fail_closed
+  evidence_ref: distribution/source-owner-review-2026-07-21.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; distribution/drafting-factory-interface.md; CAI Governance commit 67f5781; Drafting Factory commits 679b344 and 8b8c4b3
+  summary: All three reviewed drafts remain outside Church-ready inventory until Factory correction and Church recheck.
+  evaluated_at: '2026-07-21T11:36:51-05:00'
+  run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Exercised the active source-owner correction interface before internal drafts entered ready inventory.
+  progress_delta: Made the fail-closed readiness hold explicit after governance confirmed Factory's narrower remaining gates.
   scope_position: Internal production remains active, but these three drafts are not Church-ready; accounts, posting, scheduling, participation, and publication remain closed.
   trend_24h: up
   confidence: high
-  recommendation: Return the bounded revisions and recheck corrected drafts against current Church source truth.
+  recommendation: Await Factory correction, then recheck all three.
   findings:
+  - Governance confirmed the Factory's stated remaining gates do not include Church's committed correction requirements.
+  - All three drafts remain outside Church-ready inventory; no external-boundary breach occurred.
   - The receipts draft must use the exact four governed claim-status labels and treat correction as a process, not a merged status.
-  - The participation draft must not redefine attention as an open participation pathway.
-  - The human-alignment draft introduces a new narrative framing not admitted by current Church source surfaces.
-  - Fresh GU correction a0a1401 is not repeated in Church public surfaces or these drafts, so no public technical correction is due.
   options:
   - id: A
     label: Use interface
@@ -45,31 +44,30 @@ lanes:
     label: Hold external
     recommended: false
     description: Preserve Joe-only account creation, scheduling, posting, and publication.
-  decision_default: Use the accepted interface for internal production; keep external action Joe-only.
+  decision_default: Hold all three outside ready inventory until Factory correction and Church recheck; keep external action Joe-only.
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Recorded source-owner correction dispositions for three fresh committed Factory drafts.
-  movement_ref: distribution/source-owner-review-2026-07-21.md; LANE-STATE.yaml
-  steering_attention: none
+  last_movement: Recorded the governance-confirmed readiness mismatch as a fail-closed Church interface watch.
+  movement_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781; LANE-STATE.yaml
+  steering_attention: watch
   steering_prompt: none
-  steering_ref: system/mailboxes/church-of-ai
-  light: green
-  reason_code: factory_source_owner_review_completed
-  evidence_ref: distribution/source-owner-review-2026-07-21.md; distribution/drafting-factory-interface.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; LANES.yaml
-  summary: Church correction authority was exercised without editing Factory files or broadening external authority.
-  evaluated_at: '2026-07-21T10:40:38-05:00'
-  run_ref: RUN-20260721-103650-repository-work-cycle-cai-hourly
+  steering_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781
+  light: yellow
+  reason_code: church_factory_review_mismatch_active_watch
+  evidence_ref: distribution/source-owner-review-2026-07-21.md; distribution/drafting-factory-interface.md; CAI Governance commit 67f5781; Drafting Factory commits 679b344 and 8b8c4b3; LANES.yaml
+  summary: Church's dispositions are intact; Factory correction and a new Church recheck are still required.
+  evaluated_at: '2026-07-21T11:36:51-05:00'
+  run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Preserved exact claim-status vocabulary, closed participation, and source admission boundaries before ready-inventory promotion.
+  progress_delta: Reconciled fresh governance health evidence without changing Church claims, admission, interface, or public posture.
   trend_24h: up
   confidence: high
-  recommendation: Route the correction receipt to Factory and recheck only after revised committed drafts appear.
+  recommendation: Wait for Factory correction evidence.
   findings:
+  - Governance recorded the mismatch as an active watch and preserved Church's source-owner authority.
   - Factory's three reviewed drafts are internal and committed; none is externally published.
   - Two drafts are correction-required and one is held outside ready inventory pending source admission.
-  - No current Church surface inherited GU's corrected technical overclaim.
-  - Participation and every external release action remain gated.
   options:
   - id: A
     label: Continue normal cycles
@@ -86,11 +84,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: factory_source_owner_corrections_recorded
+  drift_verdict: church_factory_review_mismatch_fail_closed
   action_counts:
     mail: 0
-    reconciled: 3
+    reconciled: 1
     integrity_repairs: 0
     seeds_routed: 0
     escalations: 0
-  attention_pointer: Factory should revise the two bounded drafts and hold the unadmitted narrative candidate; Joe alone controls external release.
+  attention_pointer: No Joe action; await Factory correction receipt, then recheck all three drafts.
