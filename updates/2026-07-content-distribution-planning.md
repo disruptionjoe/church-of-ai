@@ -26,9 +26,9 @@ ready, participatory, governed, or externally active than it is.
 - Rules for preserving claim status in future distribution content.
 - A setup boundary that keeps account setup, posting, scheduling, and external
   publication outside agent authority.
-- A clear wait state: production is parked on the Church of AI / Drafting
-  Factory channel relationship, starting with the CoAI Substack channel
-  contract, before any channel inventory or ready-to-post production starts.
+- An accepted Church of AI / Drafting Factory interface for local inventory and
+  ready-package production, while external account setup and posting remain
+  Joe-only actions.
 
 ---
 
