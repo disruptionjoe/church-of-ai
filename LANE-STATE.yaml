@@ -2,27 +2,27 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-20T21:38:36-05:00'
-run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
-bottom_line: The accepted Drafting Factory interface now activates internal Church content production while all external release remains Joe-only.
+updated_at: '2026-07-21T00:42:54-05:00'
+run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
+bottom_line: The accepted Drafting Factory interface activates internal Church content production, and the public distribution update now states that consistently while all external release remains Joe-only.
 decision_default: Maintain truthful internal production inputs; do not create accounts, schedule, post, or imply participation.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Activated the accepted Church and Drafting Factory internal production interface and reconciled the public entryway.
-  movement_ref: distribution/README.md; distribution/drafting-factory-interface.md; README.md; STATUS.md; ROADMAP.md
+  last_movement: Removed the final stale public statement that treated the accepted Church and Drafting Factory interface as an unmet dependency.
+  movement_ref: updates/2026-07-content-distribution-planning.md
   steering_attention: none
   steering_prompt: Keep production local and source-aligned; Joe alone creates accounts, schedules, posts, or publishes.
   steering_ref: distribution/drafting-factory-interface.md
   light: green
-  reason_code: drafting_factory_internal_production_interface_active
-  evidence_ref: distribution/drafting-factory-interface.md; distribution/README.md; Drafting Factory SOURCE-OWNER-INTERFACES.md
-  summary: Local candidate and ready-package production is active under a reciprocal source-owner interface; external release is not.
-  evaluated_at: '2026-07-20T21:38:36-05:00'
-  run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
+  reason_code: public_distribution_status_consistency_repaired
+  evidence_ref: updates/2026-07-content-distribution-planning.md; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md
+  summary: The public distribution update now consistently describes the reciprocal source-owner interface as active for internal production while external release remains Joe-only.
+  evaluated_at: '2026-07-21T00:42:54-05:00'
+  run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Replaced the parked production state with an accepted internal interface and preserved the Joe-only external-action boundary.
+  progress_delta: Corrected the last contradictory dependency statement without broadening the accepted internal-production or Joe-only external-action boundary.
   scope_position: Internal Substack and Church short-video production may proceed; accounts, posting, scheduling, participation, and publication remain closed.
   trend_24h: up
   confidence: high
@@ -48,19 +48,19 @@ lanes:
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Reconciled stale parked-production language after the independent interface activation.
-  movement_ref: README.md; STATUS.md; ROADMAP.md; updates/2026-07-content-distribution-planning.md; LANE-STATE.yaml
+  last_movement: Reconciled the remaining stale dependency language in the July distribution update.
+  movement_ref: updates/2026-07-content-distribution-planning.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
-  reason_code: production_activation_state_reconciled
-  evidence_ref: commit 148a9775f4f6; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md; empty mailbox; LANES.yaml
-  summary: Church status surfaces now match the accepted reciprocal production interface without broadening external authority.
-  evaluated_at: '2026-07-20T21:38:36-05:00'
-  run_ref: RUN-20260720-213637-repository-work-cycle-cai-hourly
+  reason_code: residual_production_dependency_status_drift_repaired
+  evidence_ref: updates/2026-07-content-distribution-planning.md; distribution/drafting-factory-interface.md; Drafting Factory SOURCE-OWNER-INTERFACES.md; empty mailbox; LANES.yaml
+  summary: The final contradictory public dependency statement now matches the accepted reciprocal production interface without broadening external authority.
+  evaluated_at: '2026-07-21T00:42:54-05:00'
+  run_ref: RUN-20260721-003510-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Removed four stale parked-production statements and clarified that internal production activation is not external publication authorization.
+  progress_delta: Removed one residual stale dependency statement and preserved the distinction between internal production and external publication.
   trend_24h: up
   confidence: high
   recommendation: Continue normal cycles.
@@ -85,11 +85,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: production_activation_status_drift_repaired
+  drift_verdict: residual_production_dependency_status_drift_repaired
   action_counts:
     mail: 0
-    reconciled: 5
-    integrity_repairs: 5
+    reconciled: 1
+    integrity_repairs: 1
     seeds_routed: 0
     escalations: 0
   attention_pointer: Internal production may proceed; Joe alone controls accounts and external release.

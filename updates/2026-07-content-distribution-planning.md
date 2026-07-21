@@ -47,9 +47,8 @@ posting, or external publication.
 
 ## The useful next move
 
-The next dependency is the production relationship and channel contract, not
-channel selection by itself.
-
-Until then, the public repo can point readers to what already exists: the
-[ecosystem map](../ecosystem/MAP.md), the [reading sequence](../ecosystem/SEQUENCE.md),
-the [status](../STATUS.md), and the [roadmap](../ROADMAP.md).
+The useful next move is source-aligned internal production through the accepted
+Church of AI / Drafting Factory interface. Candidate and ready-package work can
+use the [ecosystem map](../ecosystem/MAP.md), the [reading sequence](../ecosystem/SEQUENCE.md),
+the [status](../STATUS.md), and the [roadmap](../ROADMAP.md) while Joe retains
+all account setup, scheduling, posting, and publication decisions.
