@@ -2,36 +2,36 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-20T15:40:52-05:00'
-run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
-bottom_line: Front door now reflects CMD-0001's P4 revision-required result; distribution still waits on WI-089.
+updated_at: '2026-07-20T19:42:00-05:00'
+run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
+bottom_line: Front door now reflects CMD-0001's bounded P4 rerun pass and defer; distribution still waits on WI-089.
 decision_default: Keep public map current; hold distribution production until WI-089
   acceptance.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Corrected CMD-0001 descriptions to reflect its P4 revision-required
-    result without upgrading claims.
+  last_movement: Corrected CMD-0001 descriptions to reflect its bounded P4 rerun
+    pass and defer without upgrading claims.
   movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md
   steering_attention: none
   steering_prompt: Parked pending WI-089 CoAI Substack channel contract; wake on
     WI-089 packet acceptance.
   steering_ref: distribution/README.md
   light: green
-  reason_code: mechanism_design_status_refreshed
+  reason_code: mechanism_design_p4_rerun_status_refreshed
   evidence_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; CAI Mechanism Design STATUS.md
-  summary: Public map now records that P4 exposed prose-only mixed-fit and absorber fields.
-  evaluated_at: '2026-07-20T15:40:52-05:00'
-  run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+  summary: Public map now records the exact wrapper repair, bounded rerun pass, and defer.
+  evaluated_at: '2026-07-20T19:42:00-05:00'
+  run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Public entryway now names CMD-0001's synthetic-only scope, bounded P3 refusal, and P4 revision requirement without implying stronger disposition.
+  progress_delta: Public entryway now names CMD-0001's synthetic-only scope, bounded P3 refusal, and bounded P4 rerun pass plus defer without implying graduation.
   trend_24h: up
   confidence: high
   recommendation: Keep map current; wait on WI-089.
   findings:
-  - CAI Mechanism Design scored P4 as revision required after its mixed fixture exposed prose-only status and absorber fields.
-  - CMD-0001 remains synthetic-only; no stronger disposition, live action, or participation is active.
+  - CAI Mechanism Design repaired the exact prose-only fields and the same frozen P4 fixture earned a bounded translation pass.
+  - CMD-0001 remains synthetic-only and deferred; no graduation, consequential proving, live action, or participation is active.
   - WI-089 remains open, so distribution production stays parked.
   options:
   - id: A
@@ -50,25 +50,25 @@ lanes:
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Stewardship repaired the newly stale CMD-0001 P4 status in public map surfaces.
+  last_movement: Stewardship repaired the newly stale CMD-0001 P4 rerun status in public map surfaces.
   movement_ref: README.md; STATUS.md; ecosystem/MAP.md; ecosystem/REPOS.md; LANE-STATE.yaml
   steering_attention: none
   steering_prompt: none
   steering_ref: system/mailboxes/church-of-ai
   light: green
-  reason_code: public_status_drift_repaired
+  reason_code: public_p4_rerun_status_drift_repaired
   evidence_ref: git status; empty mailbox; CAI Mechanism Design STATUS.md; WI-089; LANES.yaml
-  summary: CMD P4 source-status drift repaired; no mailbox, relationship, or distribution gate changed.
-  evaluated_at: '2026-07-20T15:40:52-05:00'
-  run_ref: RUN-20260720-153631-repository-work-cycle-cai-hourly
+  summary: CMD P4 rerun source-status drift repaired; no mailbox, relationship, or distribution gate changed.
+  evaluated_at: '2026-07-20T19:42:00-05:00'
+  run_ref: RUN-20260720-193705-repository-work-cycle-cai-hourly
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Reconciled Church wording with CMD-0001 source status while preserving relationship, distribution, and participation gates.
+  progress_delta: Reconciled Church wording with CMD-0001's bounded pass and defer while preserving relationship, distribution, participation, and external-action gates.
   trend_24h: up
   confidence: high
   recommendation: Continue normal cycles.
   findings:
   - Mailbox was empty.
-  - CAI Mechanism Design source status made the Church map stale.
+  - CAI Mechanism Design's P4 rerun source status made the Church map stale.
   - WI-089 remains open and does not authorize production or posting.
   - No writer lock, local run collision, or unrelated dirty work was found.
   options:

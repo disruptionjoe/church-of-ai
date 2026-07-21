@@ -36,9 +36,9 @@ participation surface.
   topology ontology)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)
   (formed; `CMD-0001` is a synthetic-only candidate; P3 returned a bounded
-  source-fixture refusal, and P4 returned revision required because mixed-fit
-  status and domain absorbers remain prose-only; no stronger disposition or
-  live action is active)
+  source-fixture refusal; P4 first required revision, then earned a bounded
+  mixed-translation pass after the exact typed-wrapper repair and returned to
+  defer; no graduation, consequential proving, or live action is active)
 - [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
   (active, independent)
 
