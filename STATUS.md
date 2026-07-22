@@ -33,8 +33,9 @@ participation surface.
   ready-package work active while account setup, posting, scheduling, and
   participation remain closed to agents
 - [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure)
-  (formed; provisional source-gated schema candidate only; no accepted schema or
-  topology ontology)
+  (formed; five source-backed positive records and a non-accepting packet support
+  only a provisional local record screen; no accepted schema, topology ontology,
+  or transferable intervention)
 - [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)
   (formed; `CMD-0001` is a synthetic-only candidate; P3 returned a bounded
   source-fixture refusal; P4 first required revision, then earned a bounded
