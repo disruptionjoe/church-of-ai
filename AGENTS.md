@@ -92,6 +92,18 @@ Discovery is Lane-less. A direct mount uses these local surfaces without
 CapacityOS. System observations, health, schedules, and execution history are
 not Lane truth.
 
+## Purpose, Passion, and Practice
+
+- **Purpose:** Enable voluntary, legitimate agency over shared problems and
+  resources, so positive-sum cooperation can outcompete coercive, extractive,
+  or failing legacy institutions.
+- **Passion:** Test whether agents can run a coherent, brand-consistent growth
+  strategy for an opt-in movement without manipulation, overclaiming, or false
+  participation signals.
+- **Practice:** Direct agents through continuous reach-and-conversion
+  optimization while preserving voice, satire boundaries, trust, and a
+  separation between internal conversion goals and audience-facing invitation.
+
 ## Versioning Default
 
 After any coherent batch of repository changes that Joe has authorized, commit
