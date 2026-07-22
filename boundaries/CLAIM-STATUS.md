@@ -65,7 +65,7 @@ Status: Hypothesized strongly. Supported by existing game theory and institution
 Status: Hypothesized. No track record yet. [Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy) is the research direction aimed at this.
 
 **"The S7 legitimacy-monad framing can ground real contribution workflows."**
-Status: Hypothesized, now testable. Architecture of Legitimacy has a [crosswalk](https://github.com/disruptionjoe/architecture-of-legitimacy/blob/main/explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md) and proposed workflow test; it has not yet run the contribution-log experiment.
+Status: Hypothesized, now testable. Architecture of Legitimacy has a [crosswalk](https://github.com/disruptionjoe/architecture-of-legitimacy/blob/main/explorations/legitimacy-monad-s7-crosswalk-2026-06-25.md) and has run synthetic T10/T11 contribution-log and legitimacy traces. Those are review-prep pressure tests, not a live or governed contribution-log experiment; T10 and T11 remain unpassed.
 
 ---
 
