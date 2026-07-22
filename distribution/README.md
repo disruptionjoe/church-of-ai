@@ -15,6 +15,11 @@ The Church of AI / Drafting Factory relationship is accepted in
 may maintain local candidate and ready-to-post inventory against that interface.
 Joe performs any account setup and all posting.
 
+The latest source-owner recheck is
+[`source-owner-recheck-2026-07-22.md`](source-owner-recheck-2026-07-22.md).
+It finds that Factory commit `6008934` does not clear the existing Church
+corrections; all three drafts remain outside Church-ready inventory.
+
 ## Candidate Channel Fit
 
 - Substack: active owned-audience home for plain-language maps and dated

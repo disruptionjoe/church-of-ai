@@ -2,16 +2,16 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-21T15:35:25-05:00'
-run_ref: RUN-20260721-153525-repository-work-cycle-cai-hourly
-bottom_line: Governance confirmed a Factory readiness mismatch; hold all three drafts outside Church-ready inventory pending correction and recheck.
-decision_default: Await a committed Factory correction receipt, then recheck against Church source truth; keep external release Joe-only.
+updated_at: '2026-07-22T13:41:00-05:00'
+run_ref: RUN-20260722-133630-CHURCH-A-001
+bottom_line: Factory marked the opening sequence post-ready, but Church recheck found the prior claim-status, participation, and narrative-admission defects still present; hold all three outside Church-ready inventory.
+decision_default: Await committed exact draft corrections, then recheck those revisions against Church source truth; keep external release Joe-only.
 needs_joe: false
 lanes:
 - lane_id: '1'
   work_status: moving
-  last_movement: Reconciled the governance fail-closed finding with Church's existing source-owner dispositions.
-  movement_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781
+  last_movement: Rechecked Factory commit 6008934 and preserved the hold because all three prior source-owner defects remain.
+  movement_ref: distribution/source-owner-recheck-2026-07-22.md
   steering_attention: watch
   steering_prompt: Recheck only after Factory returns corrected committed drafts; do not admit held content by inference.
   steering_ref: distribution/drafting-factory-interface.md
