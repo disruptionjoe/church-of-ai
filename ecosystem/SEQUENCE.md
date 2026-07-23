@@ -46,9 +46,10 @@ Use the repo whose question you care about:
 
 1. [CAI Systemic Failure](https://github.com/disruptionjoe/cai-systemic-failure) - the place to inspect how systemic-failure signals, prior art, evidence, and inquiries are meant to become source-preserving records.
 2. [CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design) - the place to inspect how possible solutions would become candidates, proving plans, dispositions, and graduation proposals after a question is ready.
-3. [Time as Finality](https://github.com/disruptionjoe/time-as-finality) - the first live lab for AI-assisted research under pressure, and the place to inspect the technical receipts.
-4. [Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy) - the place to inspect contribution legitimacy, governance, rights, reward, and capture-resistance questions.
-5. GU Formalization - adjacent independent technical research. It is in the neighborhood, but Church of AI does not speak for it.
+3. [Purity Protocol](https://github.com/disruptionjoe/purity-protocol) - the place to inspect founder-led Phase 0 research into durable informed participation and evidence-gated progressive decentralization.
+4. [Time as Finality](https://github.com/disruptionjoe/time-as-finality) - the first live lab for AI-assisted research under pressure, and the place to inspect the technical receipts.
+5. [Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy) - the place to inspect contribution legitimacy, governance, rights, reward, and capture-resistance questions.
+6. GU Formalization - adjacent independent technical research. It is in the neighborhood, but Church of AI does not speak for it.
 
 Church of AI is the map. The research lives in the research repos.
 

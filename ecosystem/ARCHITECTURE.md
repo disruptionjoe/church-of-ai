@@ -62,6 +62,7 @@ Use them as a mental model for where future documents belong.
 | --- | --- | --- |
 | Church of AI | Public square, narrative layer, ecosystem map, distribution layer | Not a parent repo or research authority |
 | Architecture of Legitimacy | Governance science, contribution legitimacy, rights, rewards, review, capture resistance | Not actual ecosystem governance until legitimacy is earned |
+| Purity Protocol | Public Phase 0 protocol governance and research for durable informed participation | Not a live protocol, participation surface, or already-decentralized institution |
 | AI-Native Epistemology | Research on epistemic machinery, AI-assisted reasoning systems, and cross-repo knowledge production | Not a central approval board |
 | Time as Finality | Claim-led technical research on records, finality, and temporal reconstruction | Not Church doctrine or finished physics |
 | Temporal Issuance | Research-governance repo on source-side novelty, issuance, and steward machinery | Not merged with Time as Finality or GU |

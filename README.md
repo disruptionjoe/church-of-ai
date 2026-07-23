@@ -75,6 +75,8 @@ No revelation without receipts.
 
 **[CAI Mechanism Design](https://github.com/disruptionjoe/cai-mechanism-design)** - The public repository for otherwise-unowned or integrative mechanism discovery, bounded proving design, dispositions, and earned graduation proposals. It is formed; `CMD-0001` is a synthetic-only candidate. P3 returned a bounded source-fixture refusal. P4 first required revision, then earned a bounded mixed-translation pass after an exact typed-wrapper repair and returned to defer. No graduation, consequential proving, or live action is active.
 
+**[Purity Protocol](https://github.com/disruptionjoe/purity-protocol)** - A founder-led open-source effort researching how to make decentralized decision-making durable by rewarding informed participation without surrendering the system to corruption, collusion, or capture. It is in Phase 0 formation: no live protocol, participants, incentives, app, pilot, deployment, or authority transfer exists.
+
 **[Time as Finality](https://github.com/disruptionjoe/time-as-finality)** - A proving ground for whether AI-assisted research can stay coherent under pressure. The first live lab.
 
 **[Architecture of Legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)** - The place where the rules of valid contribution are studied before anyone pretends to have solved them. Its S7 crosswalk maps the legitimacy-monad idea onto contribution workflows, contestability, retained records, rights, governance transitions, and capture resistance.

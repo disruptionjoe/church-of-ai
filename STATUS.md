@@ -41,6 +41,10 @@ participation surface.
   source-fixture refusal; P4 first required revision, then earned a bounded
   mixed-translation pass after the exact typed-wrapper repair and returned to
   defer; no graduation, consequential proving, or live action is active)
+- [Purity Protocol](https://github.com/disruptionjoe/purity-protocol)
+  (public founder-led Phase 0 formation; matching revision 1 CAI relationship;
+  no live protocol, participants, incentives, app, pilot, deployment, or
+  authority transfer)
 - [Time as Finality repo](https://github.com/disruptionjoe/time-as-finality)
   (active, independent)
 

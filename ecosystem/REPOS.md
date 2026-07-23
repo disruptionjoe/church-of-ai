@@ -78,6 +78,23 @@ First application of the mathematical core. Next target is typed multiscale tran
 
 ---
 
+## Purity Protocol
+
+**[github.com/disruptionjoe/purity-protocol](https://github.com/disruptionjoe/purity-protocol)**
+
+What it does: research and govern an open substrate intended to make recurring
+informed participation durable while progressively transferring authority
+through evidence-gated constitutional development.
+
+What it does not do: claim a working mechanism, admit contributors, operate a
+live protocol or app, run incentives or funds, deploy, or present founder-led
+formation as already decentralized.
+
+Status: **Public founder-led Phase 0 formation. No live protocol or
+participation.**
+
+---
+
 ## Architecture of Legitimacy
 
 **[github.com/disruptionjoe/architecture-of-legitimacy](https://github.com/disruptionjoe/architecture-of-legitimacy)**

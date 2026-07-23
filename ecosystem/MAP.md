@@ -1,6 +1,6 @@
 # Ecosystem Map - Church of AI
 
-Six public-facing projects. Each independent. Each doing a different job.
+Seven public-facing projects. Each independent. Each doing a different job.
 
 ---
 
@@ -76,6 +76,26 @@ participation, field work, or spin-out is active.
 
 Church of AI would say: this is where possible solutions go only after the
 question is clear enough to deserve design work.
+
+---
+
+## Purity Protocol
+
+**[github.com/disruptionjoe/purity-protocol](https://github.com/disruptionjoe/purity-protocol)**
+
+Purity Protocol is an open-source effort to make decentralized
+decision-making durable by building a corruption-, collusion-, and
+capture-resistant substrate for rewarding informed participation.
+
+It is presently a founder-led Phase 0 governance and research project. The
+repository is public, but participation is closed. It has no live protocol,
+application, pilot, participant community, incentive system, funds,
+deployment, or authority transfer. Pairwise comparison, peer prediction,
+issuance, and related mechanisms remain hypotheses.
+
+Church of AI would say: this is where a protocol for sustaining informed
+collective attention is being constituted in public before anybody pretends it
+is decentralized or proven.
 
 ---
 
