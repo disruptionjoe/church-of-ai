@@ -2,35 +2,35 @@ schema_version: '2.0'
 owner_id: church-of-ai
 group: church-of-ai
 rule_ref: system/runtime/flows/derive-lane-health.md
-updated_at: '2026-07-22T13:41:00-05:00'
-run_ref: RUN-20260722-133630-CHURCH-A-001
-bottom_line: Factory marked the opening sequence post-ready, but Church recheck found the prior claim-status, participation, and narrative-admission defects still present; hold all three outside Church-ready inventory.
+updated_at: '2026-07-23T22:31:41-05:00'
+run_ref: RUN-20260723-221004-CHURCH-A-001
+bottom_line: Lane 1 still awaits corrected Factory drafts; Lane A repaired stale recheck provenance and confirmed the exact wake.
 decision_default: Await committed exact draft corrections, then recheck those revisions against Church source truth; keep external release Joe-only.
 needs_joe: false
 lanes:
 - lane_id: '1'
-  work_status: moving
-  last_movement: Rechecked Factory commit 6008934 and preserved the hold because all three prior source-owner defects remain.
+  work_status: thin
+  last_movement: The 2026-07-22 recheck preserved the hold; no corrected Factory revision has entered Church truth.
   movement_ref: distribution/source-owner-recheck-2026-07-22.md
   steering_attention: watch
   steering_prompt: Recheck only after Factory returns corrected committed drafts; do not admit held content by inference.
   steering_ref: distribution/drafting-factory-interface.md
   light: yellow
   reason_code: factory_readiness_mismatch_fail_closed
-  evidence_ref: distribution/source-owner-review-2026-07-21.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; distribution/drafting-factory-interface.md; CAI Governance commit 67f5781; Drafting Factory commits 679b344 and 8b8c4b3
-  summary: All three reviewed drafts remain outside Church-ready inventory until Factory correction and Church recheck.
-  evaluated_at: '2026-07-21T11:36:51-05:00'
-  run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
+  evidence_ref: distribution/source-owner-recheck-2026-07-22.md; boundaries/CLAIM-STATUS.md; participation/NOT-YET.md; distribution/drafting-factory-interface.md; Drafting Factory commit 6008934
+  summary: Lane 1 is dependency-gated; recheck only exact corrected Factory revisions.
+  evaluated_at: '2026-07-23T22:31:41-05:00'
+  run_ref: RUN-20260723-221004-CHURCH-A-001
   objective: Maintain an honest public entryway and ecosystem map.
-  progress_delta: Made the fail-closed readiness hold explicit after governance confirmed Factory's narrower remaining gates.
+  progress_delta: Corrected stale recheck provenance and preserved the exact dependency wake; no owner-local Progress candidate emerged.
   scope_position: Internal production remains active, but these three drafts are not Church-ready; accounts, posting, scheduling, participation, and publication remain closed.
-  trend_24h: up
+  trend_24h: flat
   confidence: high
   recommendation: Await Factory correction, then recheck all three.
   findings:
-  - Governance confirmed the Factory's stated remaining gates do not include Church's committed correction requirements.
-  - All three drafts remain outside Church-ready inventory; no external-boundary breach occurred.
-  - The receipts draft must use the exact four governed claim-status labels and treat correction as a process, not a merged status.
+  - The complete numbered-Lane rerank found only Lane 1, still gated by the exact source-owner recheck wake.
+  - Current Church status, claim-status, participation, and distribution surfaces agree on the hold.
+  - The prior per-lane evaluation and run references lagged the committed 2026-07-22 recheck.
   options:
   - id: A
     label: Use interface
@@ -48,26 +48,26 @@ lanes:
   needs_joe: false
 - lane_id: A
   work_status: moving
-  last_movement: Recorded the governance-confirmed readiness mismatch as a fail-closed Church interface watch.
-  movement_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781; LANE-STATE.yaml
+  last_movement: Repaired stale per-lane recheck provenance and completed a bounded work-source audit.
+  movement_ref: LANE-STATE.yaml; distribution/source-owner-recheck-2026-07-22.md
   steering_attention: watch
   steering_prompt: none
-  steering_ref: distribution/source-owner-review-2026-07-21.md; CAI Governance commit 67f5781
+  steering_ref: distribution/source-owner-recheck-2026-07-22.md
   light: yellow
   reason_code: church_factory_review_mismatch_active_watch
-  evidence_ref: distribution/source-owner-review-2026-07-21.md; distribution/drafting-factory-interface.md; CAI Governance commit 67f5781; Drafting Factory commits 679b344 and 8b8c4b3; LANES.yaml
-  summary: Church's dispositions are intact; Factory correction and a new Church recheck are still required.
-  evaluated_at: '2026-07-21T11:36:51-05:00'
-  run_ref: RUN-20260721-113651-repository-work-cycle-cai-hourly
+  evidence_ref: distribution/source-owner-recheck-2026-07-22.md; distribution/drafting-factory-interface.md; LANE-STATE.yaml; LANES.yaml
+  summary: Church truth is coherent after one provenance repair; the Factory correction wake remains exact.
+  evaluated_at: '2026-07-23T22:31:41-05:00'
+  run_ref: RUN-20260723-221004-CHURCH-A-001
   objective: Keep Church of AI viable and trustworthy through integrated stewardship.
-  progress_delta: Reconciled fresh governance health evidence without changing Church claims, admission, interface, or public posture.
+  progress_delta: Repaired per-lane receipt drift and confirmed the current candidate and wake still match source truth.
   trend_24h: up
   confidence: high
   recommendation: Wait for Factory correction evidence.
   findings:
-  - Governance recorded the mismatch as an active watch and preserved Church's source-owner authority.
-  - Factory's three reviewed drafts are internal and committed; none is externally published.
-  - Two drafts are correction-required and one is held outside ready inventory pending source admission.
+  - Lane 1 remains the only numbered Lane and has no executable owner-local candidate before exact corrected revisions arrive.
+  - The mailbox is empty and repository S2-S5 coverage remains fresh through the 2026-07-23 receipt.
+  - No claim, participation, relationship, public-posture, or Joe-attention change is warranted.
   options:
   - id: A
     label: Continue normal cycles
@@ -84,11 +84,11 @@ lanes:
     description: Stop only if Joe changes owner control state.
   decision_default: Continue normal cycles.
   needs_joe: false
-  drift_verdict: church_factory_review_mismatch_fail_closed
+  drift_verdict: clean_after_recheck_provenance_repair
   action_counts:
     mail: 0
     reconciled: 1
-    integrity_repairs: 0
+    integrity_repairs: 1
     seeds_routed: 0
     escalations: 0
   attention_pointer: No Joe action; await Factory correction receipt, then recheck all three drafts.
